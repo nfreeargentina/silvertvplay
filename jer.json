@@ -342,22 +342,16 @@
     "name": "SERIES",
     "lista": [
       {
-        "name": "prueba",
-        "icon": "http://tuvideo.tv/poster/w410/7XsGxP1OkpIm8iIaRPwRgv6SlIV.jpg",
-        "temporada": [
-          {
-            "name": "Episodio 1",
-            "uri": "q8n/IdiAGSbtUQ54vTOt7reONW03NDEbUFEF63ASfSKLzbfgbeHg3GEze5Cb6JF+DmZAoK/dYFvHThHVOi3AZMa2mq4IjdxZD+SjhcFXf7I9ud6U0JrAmTi0aChzG/isb0Yc87+J54J+Lw0Y5rGk3UYLKd4sLybPxo5yGlAt1z1RChvvNM0olvmmlVKGO0OX7+L3PxidH4Gr/Pvcd+rtxA2eYdsP6dd+iU6trz5rB8Qk1/CX4/O1OMnBPp7248Q3HRKk+Ww9UP71vjzjW6oUHzFVj9c+1AO7VryWUtxeAIq9n3temaazj3xxdugFM9aYCf27CcA2Ge+VA9WRYIYGKDrrb15EYas6Kwj44PDDjhYuPRXs+Xx7I+RyHWQuOKBX+J/x9GHk4EbuRnTZdJzX8frdykLU0wGBSBSCf3xK6BU5NtTmEojJqbyVKz0fK+emvBWyatYmyleIpnbLfYhLP6N6/RO7LiFAlc5OitVZcJLJswMblBlqs8wtcllNM7N9gSvwbqwoZoVglld9XoTQLmQzlv5k0z6cz5vylGss81AXSkyBZzZnVXNHeM4LBXRJDZPWrTLJqkEoPQvKimD9n824HIp3gaZzyE8yulqxSR7ebheQ1dPHGN17P9+JibeqgbEPw87zkxLM+vIGYqEMb6yGlYrkFM85V0+OZpEXS9jmqL85OkrBd5+K7f8wujlrln06I1XvhsnrkEwemkxOhmzqB7F8gZNEQHEgCA721VWblqzxVz2J4cKuYdk6HGk+1pcYS/1HBwSNIaYXSmy6D1KPZVGmmb8sZ6q5LBiwkKWFK19upoR4Rl37v68gTTe+5lk6HhNrmnzkEXkbK43Amw=="
-          }
-        ]
-      },
-      {
         "name": "CABALLERO LUNA",
         "icon": "http://tuvideo.tv/poster/w410/7XsGxP1OkpIm8iIaRPwRgv6SlIV.jpg",
         "temporada": [
           {
             "name": "Episodio 1",
             "uri": "aqjOEhWtVS9CYLQkJfIDWZtCxTzfCfNR0qAJ14TIDIF7zQ6GnqdhCb4CJLATx62Qdk8784S3QtPdP6bETIOhtA=="
+          },
+          {
+            "name": "Episodio 2",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWZtCxTzfCfNR0qAJ14TIDIHtndCrZR6p3PY779WQmKkTLzS4HnBVbUz3UpaJgIAE9A=="
           }
         ]
       },
