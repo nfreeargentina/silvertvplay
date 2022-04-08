@@ -366,6 +366,10 @@
           {
             "name": "Episodio 2",
             "uri": "aqjOEhWtVS9CYLQkJfIDWXia0xPwevqJkwUJR5/5MLyLgWnHG4x5w5optZfDz4tt"
+          },
+          {
+            "name": "Episodio 3",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWXia0xPwevqJkwUJR5/5MLxx129cZeL0C1H80ynJUHyQ"
           }
         ]
       },
@@ -3868,7 +3872,7 @@
     ]
   },
   {
-    "name": "LISTA prueba",
+    "name": "REPRODUCE DESDE LA LUPA",
     "lista": [
       {
         "icon": "https://i.ibb.co/0q6dH0q/UP3GHSC.png",
