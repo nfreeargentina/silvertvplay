@@ -2834,6 +2834,14 @@
         "drm_session_for_clear_content": true
       },
       {
+        "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/68150d12d02ab2a071327a29049a63b4",
+        "name": "PRUEBA",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXlzYsuJ1QkJkrZfM3ePN7sApL78uzQXhMiSaWgdDiW0Q==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "SuQe+meXhmwis8kPuTw/7fwUeHLafiorOb3xjuusH4duFPHuTPLRHk64Fr6tcVMhGdAwPt32slGROcAyb+ruLihrelckrrat6jPD1qCjGwTe1TyzuJ5zu8ED49L31Xkv",
+        "drm_session_for_clear_content": true
+      },
+      {
         "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZGlyZWN0dl9zcG9ydHNfZmlnaHRfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
         "name": "DirecTV Sports Fight",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVDZjW/QAc9dYnwpNk8BdsndasIlxwYdYh4fijsPcoVIA==",
