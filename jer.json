@@ -1,6 +1,6 @@
 [
   {
-    "name": "PELICULAS-SERIES-TV",
+    "name": "PELICULAS",
     "lista": [
       {
         "name": "AGREGADO RECIENTE",
@@ -3255,9 +3255,9 @@
       },
       {
         "icon": "https://static.flow.com.ar/images/298/CH_LOGO/350/500/0/0/90263585073787.png",
-        "name": "WARNER 2",
+        "name": "WARNER 3",
         "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smmEYYQw69yJyvEnqyVlTGQ7w7EBrNw1XX4jvgriUloIiQ==",
-        "drm_scheme": "widevine",
+        "drm_scheme": "clearkey",
         "drm_license_url": "SuQe+meXhmwis8kPuTw/7fwUeHLafiorOb3xjuusH4duFPHuTPLRHk64Fr6tcVMhGdAwPt32slGROcAyb+ruLihrelckrrat6jPD1qCjGwSC3VYqOP8BmctCNZMyWB54"
       },
       {
