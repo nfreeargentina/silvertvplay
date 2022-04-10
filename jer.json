@@ -1,11 +1,15 @@
 [
   {
-    "name": "PELICULAS",
+    "name": "PELICULAS-SERIES-TV",
     "lista": [
       {
         "name": "AGREGADO RECIENTE",
         "icon": "https://i.imgur.com/2vSS9cd.jpg",
         "temporada": [
+          {
+            "name": "EL SUEÑO DE NATE",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWRAZjGHLKaHtRZ3szh+b5lZePx/36y/2zg0+dnGMRUj3LQlJnSMOfCGnQsSzWkXIW8Nux1SbgqVr7/rlYLSvrNI="
+          },
           {
             "name": "MUERTE EN EL NILO",
             "uri": "aqjOEhWtVS9CYLQkJfIDWf5lG/CB5BhbUr+0P8BYRFlLADa3tRIVFFe8I8lzv9KEqYtS+PRvTtZcfqceMRfwRA=="
@@ -2922,9 +2926,9 @@
       {
         "icon": "https://static.flow.com.ar/images/7840/CH_LOGO/350/500/0/0/25734747073582.png",
         "name": "PX SPORTS",
-        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2do7gFNs2kjCR7uLa+7Fpr1hxaS7MW6x7rxlb7b3bqK6Fi4K161YLL7GVNCBJmdYt5Bs7rN3mXocOQNCw42G4fv4",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zE4EaiDK/FCkoiOPmEHZ2xXebjHze/O8xLm+BkFd8Bh66bJXmgceIejd+oeBB8N7+rRLR2TgXY6pbmKW+gAUYH",
         "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLr4RRbpbN2jps8Wjv6XBzztw1hT1tUQEF/G aPVJB5Eysbi7fPM94HGQ3QOieG4c0gpbzX5D/xTN48NAChiUvHfz"
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLrTc1b1NZ0WID4jCuyGYBJEaNypYC4qcxFKGIF1vHbSrwNR2awk4qQJFHf1u+54ZNxdi+KJU/xhfsPX+A2m8HjE"
       }
     ]
   },
@@ -3248,6 +3252,13 @@
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wFMfHJc4hwWbTj36lgN089VHzQxJQl+mKbzgRHk42vKLrrxR02bgDVz0cTNU1ESUp2SlPGhpUDgDoaU218I7aR",
         "drm_scheme": "widevine",
         "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLrTc1b1NZ0WID4jCuyGYBJEaNypYC4qcxFK GIF1vHbSrwNR2awk4qQJFHf1u+54ZNxdi+KJU/xhfsPX+A2m8HjE"
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/298/CH_LOGO/350/500/0/0/90263585073787.png",
+        "name": "WARNER 2",
+        "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smmEYYQw69yJyvEnqyVlTGQ7w7EBrNw1XX4jvgriUloIiQ==",
+        "drm_scheme": "widevine",
+        "drm_license_url": "SuQe+meXhmwis8kPuTw/7fwUeHLafiorOb3xjuusH4duFPHuTPLRHk64Fr6tcVMhGdAwPt32slGROcAyb+ruLihrelckrrat6jPD1qCjGwSC3VYqOP8BmctCNZMyWB54"
       },
       {
         "icon": "https://static.flow.com.ar/images/731/CH_LOGO/350/500/0/0/89305925071508.png",
