@@ -1,6 +1,6 @@
 [
   {
-    "name": "PELICULAS ESTRENOS Y MAS",
+    "name": "PELICULAS ESTRENOS Y MUCHO MAS",
     "lista": [
       {
         "name": "AGREGADO RECIENTE",
@@ -2152,6 +2152,10 @@
         "name": "DIBUJOS 24/7",
         "icon": "https://i.imgur.com/2W7kl6B.jpg",
         "temporada": [
+          {
+            "name": "BOB ESPONJA HD",
+            "uri": "vO8cYv+pol+SqMbIi0INj3cZttUu8nExLqClxAwHlZA/BnTEkQxujznjYJwE2U6X8N2aPUD9eDwQblCim6aBGM3sP3dQXPgQ4FQ0d2hdPWZuwy96a3D+2axC8PcVj04VBWECq1O8IDZCU8R0CEnPuAYVqpZKgtLrodYu3O0YL4Cg+ZjILid6IuFMEOQCc1tudp50ro+XaDKTzys6u3hz6YZjbPqrzJrIRmRno110FZM/6JSaasEsvfgOPo5v4hpNCa+KGraBnPmNXoixUXCzGGg3kttzladnetB0I4WYgMTpOBiKdM+gsU8otiQUz0WIUCIMHelbzv73exrmrdXPxZo4+bzRBAAAHPd4Sk1ebToCHINuthNNMPfi4o8AsOY61NEnPmC9/wW8fbRai2qUMveXcCegIWcpUey/2gMN3m9AGzKhL/SbWArDJx4yiGd3Q3KYGK5R/QRcmN7kUXkXzuixNXMQCA3oh3S3W5VevO45pPqba5iU74+uVvtxPHaFfifXVQ8rfMXtasjMWhWY4y9SfmXaTXkkTdzbELVw7QGWmmeoPJhvFNJju3ZU8/R"
+          },
           {
             "name": "HORMIGUITAS",
             "uri": "A4nggvdk4nZJJ4rl2KP4dKn780+Qj7wAkMIfCtFO+5gOd9acO9yJ1k8D0fHSudJTlHyB3Xxz/oUQvz3o4nFrHw=="
