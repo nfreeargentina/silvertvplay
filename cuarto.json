@@ -2440,6 +2440,34 @@
         ]
       },
       {
+        "name": "NACIONALES",
+        "icon": "https://i.imgur.com/JIGQ0nB.jpg",
+        "temporada": [
+          {
+            "name": "TELESOL SJ",
+            "uri": "EKH2VCCebW5vadMYFLXA0AQtdYd8I6HpuEZjMkMJ2WHKsn/qcvTNb1wCylat+LaEs3ofGIwM2MZurRUfRRoH6rZlaY39dQRjczuMLeUN0nU="
+          },
+          {
+            "name": "CANAL 4 SJ",
+            "uri": "MioiCZcjobL9nMW82phEsyieRoqiN9eUVRvB3q7Ki07QBbS/92sEpzIWRyjFWtTlCrNu5gfob+1rEDzk/Ov4JLL016V2RlGyqRAsjvKI32g="
+          },
+          {
+            "name": "CANAL 13",
+            "uri": "6GeJNUDzTnDMgn0VKcbqqnzk7Wox5W5dGB8/UUrsl26I4swbUryoo5x6Zf+KEnZmTH+y0sBf85zQVk7eSAL/IIv204Jze7tBGZ7VGEbcAdZ1zfVwtHeGJl5nXY/Ebjs3",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "/mGM655KwcD2RhCNVH4Y/mMXmT7u9eQOu+ZXXpzdNrQuZvIn+qWjbSwP4Dgk+zUXAnqaBMQ6LVKKXqhm3JQDmuJgze/vP4xU93E1h4zroeswrOI1vdDlTy3iN+7xB4AH"
+          },
+          {
+            "name": "CANAL 13 HD",
+            "uri": "h/sJ1RqoQOsjtTTfDCybETkxDfU7TpBmdVvuzgsaLbWsjDoWmyqWCXNv50TQSdf9JPgOsdP+gKx1bNWZAbAjTg=="
+          },
+          {
+            "name": "TV PUBLICA",
+            "uri": "U6NqFyLqAa/7gjAwOBrY9GlX7peVxyfk8hd4unTt1d6HYkg5eSdQRm7602zo8BYptUVAtj7nmDR93SKVVcC2gop9FvCtndbH3kv0bNFaXac="
+          }
+        ]
+      },
+      {
         "name": "CANALES 2",
         "icon": "https://i.imgur.com/NO4jWiI.jpg",
         "temporada": [
@@ -2578,6 +2606,10 @@
         "icon": "https://i.imgur.com/8A0V9dr.jpg",
         "temporada": [
           {
+            "name": "TIGO SPORT HD",
+            "uri": "h/sJ1RqoQOsjtTTfDCybEcW2tnoXj89qdylI4w8IYEdHlVJeCFb+AMi9Osq48CaTvqpmNjND61w7NLmKhKhH4g=="
+          },
+          {
             "name": "FOX SPORT",
             "uri": "8lFtzaIN+0uZIJU8NAjdyCodmy3O+RnvD2qg+lTtiNV0WMOgxsDtrSbYf50eQkCrnZQOmhP4OlY2KOiub3803kABsuuS8FxYYrImqSm+MfGNHcLCENbyUBXjnUHtBkNOEYE3Py+7lfOr7NKwxRx5PA=="
           },
@@ -2622,6 +2654,18 @@
           {
             "name": "TNT SPORT",
             "uri": "h/sJ1RqoQOsjtTTfDCybETkxDfU7TpBmdVvuzgsaLbWsjDoWmyqWCXNv50TQSdf9/E0xbN+iQ6VnoL0AhjZgfA=="
+          },
+          {
+            "name": "TNT SPORT 2",
+            "uri": "kR9CWcixBlx7WGoqD06NltSg57dQgMbAD5v0tWQ4SaRHKDwonhG3YRIgDJUNeNtb7FoOZDGuoG1l71CgrR/Ue5aMxfIwBHL/VX+VePwZmxfpS6DO01BBkXA01tm5AuTA"
+          },
+          {
+            "name": "TyC Sport",
+            "uri": "wnNbG3LGain8L+dL5/adx3j1w4HboqK9TwhpkLdNt+WL4+hkGl0wm8dhzkwNMyjbYw10jnRRxzWkl//u3IgMRjW/ja5UJO5RIeFw1IUDWlF4dl95HbccCjuNt9SyBjNn"
+          },
+          {
+            "name": "TyC Sport2",
+            "uri": "U6NqFyLqAa/7gjAwOBrY9GlX7peVxyfk8hd4unTt1d6HYkg5eSdQRm7602zo8BYp1qDLUx+Je27bc30YDxrLe+ttM+ZcTbhCgRBVcHEmL0rElzrux/sWqGQiNJIu5oV7"
           },
           {
             "name": "MOVISTAR DEPORTES",
