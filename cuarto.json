@@ -2163,6 +2163,18 @@
         "icon": "https://i.imgur.com/2W7kl6B.jpg",
         "temporada": [
           {
+            "name": "LOCOMOTION",
+            "uri": "P4rUDa6Dhzj2Kx75WJOoNu2f4PcrQQ66PUCaSJc1ZTkUN4xyjdqFMd32kJD92Lsk"
+          },
+          {
+            "name": "BRIGADA COLA",
+            "uri": "2G4DmogZusLBmJv8BxnfDUQ8fFWBEDLhX6QsSWu57sN8RMw+GlJ12meKT0F2cVLw6lc+OUcJiUMKLPLFXcX1qg=="
+          },
+          {
+            "name": "CASADO CON HIJOS",
+            "uri": "2G4DmogZusLBmJv8BxnfDUZqasX3ZNr2AGAVyvG3j9Nd6RSXiUkwey+lTwJZKM2kh6VZJ/e4ecSzs6vMvJUumA=="
+          },
+          {
             "name": "BOB ESPONJA HD",
             "uri": "h/sJ1RqoQOsjtTTfDCybETkxDfU7TpBmdVvuzgsaLbWsjDoWmyqWCXNv50TQSdf9eHB22XGnk1JNbTUKKaE8LA=="
           },
@@ -2444,14 +2456,13 @@
         "icon": "https://i.imgur.com/JIGQ0nB.jpg",
         "temporada": [
           {
-            "name": "TELESOL SJ",
-            "uri": "EKH2VCCebW5vadMYFLXA0AQtdYd8I6HpuEZjMkMJ2WHKsn/qcvTNb1wCylat+LaEs3ofGIwM2MZurRUfRRoH6rZlaY39dQRjczuMLeUN0nU="
+            "name": "Silver Channel",
+            "uri": "0u7RtaCoyz0sIDXu0NxHuaXkxgShS5ztZ2jW8fPPhbBahSq7DmNTkTiKqTngbj3ylGzHMc2OYBdYLnDQmLsIAw=="
           },
           {
             "name": "CANAL 4 SJ",
             "uri": "MioiCZcjobL9nMW82phEsyieRoqiN9eUVRvB3q7Ki07QBbS/92sEpzIWRyjFWtTlCrNu5gfob+1rEDzk/Ov4JLL016V2RlGyqRAsjvKI32g="
           },
-          "",
           {
             "name": "CANAL 13 HD",
             "uri": "h/sJ1RqoQOsjtTTfDCybETkxDfU7TpBmdVvuzgsaLbWsjDoWmyqWCXNv50TQSdf9JPgOsdP+gKx1bNWZAbAjTg=="
@@ -2707,6 +2718,11 @@
         "uri": "6GeJNUDzTnDMgn0VKcbqqnzk7Wox5W5dGB8/UUrsl26I4swbUryoo5x6Zf+KEnZmTH+y0sBf85zQVk7eSAL/IIv204Jze7tBGZ7VGEbcAdZ1zfVwtHeGJl5nXY/Ebjs3",
         "drm_scheme": "widevine",
         "drm_license_url": "/mGM655KwcD2RhCNVH4Y/mMXmT7u9eQOu+ZXXpzdNrQuZvIn+qWjbSwP4Dgk+zUXAnqaBMQ6LVKKXqhm3JQDmuJgze/vP4xU93E1h4zroeswrOI1vdDlTy3iN+7xB4AH"
+      },
+      {
+        "icon": "https://i.imgur.com/ZNxmxUG.jpg",
+        "name": "TELESOL SJ",
+        "uri": "EKH2VCCebW5vadMYFLXA0AQtdYd8I6HpuEZjMkMJ2WHKsn/qcvTNb1wCylat+LaEs3ofGIwM2MZurRUfRRoH6rZlaY39dQRjczuMLeUN0nU="
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
@@ -4020,6 +4036,11 @@
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xpUS4FZjAN1jufeG7826GAapRvPEizRvIwx0q6N8U1K5qo0LBaXQ3sBhqCty69BVsm3rpeWfaWw8pVGBb7LgD4",
         "drm_scheme": "widevine",
         "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLrTc1b1NZ0WID4jCuyGYBJEaNypYC4qcxFK GIF1vHbSrwNR2awk4qQJFHf1u+54ZNxdi+KJU/xhfsPX+A2m8HjE"
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/715/CH_LOGO/350/500/0/0/80393273073281.png",
+        "name": "CONCERT CHANNEL",
+        "uri": "8lFtzaIN+0uZIJU8NAjdyCodmy3O+RnvD2qg+lTtiNV0WMOgxsDtrSbYf50eQkCrnZQOmhP4OlY2KOiub3803qvhn/YBiphHbrnXOARTgG/SDCM+3vkANzUI1aaJTmVfQsfhaJYK7Ddc2uUy6Ji+1w=="
       },
       {
         "icon": "https://static.flow.com.ar/images/699/CH_LOGO/350/500/0/0/1116039107115.png",
