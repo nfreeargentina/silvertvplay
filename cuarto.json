@@ -498,6 +498,34 @@
           {
             "name": "EPISODIO 27",
             "uri": "aqjOEhWtVS9CYLQkJfIDWRN3e8ewIeL6cDgohBmIf2A6Oy6LWvbPlK3H52IHagYpv4kgQ1Eitr7YNphKGnGItQ=="
+          },
+          {
+            "name": "EPISODIO 28",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWQOBP705bV5e7+fNeGS//+jFG+eEA4jrAOiXTxLCMtRSXPT2JSAF/Epnno6dGQln8g=="
+          },
+          {
+            "name": "EPISODIO 29",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWQOBP705bV5e7+fNeGS//+jFG+eEA4jrAOiXTxLCMtRSLFPWjmZX6mrmLVL9DPC1oA=="
+          },
+          {
+            "name": "EPISODIO 30",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWQOBP705bV5e7+fNeGS//+jFG+eEA4jrAOiXTxLCMtRSWUOut3ZDGShEONXyTOWKHA=="
+          },
+          {
+            "name": "EPISODIO 31",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWRN3e8ewIeL6cDgohBmIf2A6Oy6LWvbPlK3H52IHagYpqFyPfCSAT7B1URcCkFxsjw=="
+          },
+          {
+            "name": "EPISODIO 32",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWRN3e8ewIeL6cDgohBmIf2A6Oy6LWvbPlK3H52IHagYprfaBXaEOp3XMzWX8V/rDRQ=="
+          },
+          {
+            "name": "EPISODIO 33",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWRN3e8ewIeL6cDgohBmIf2A6Oy6LWvbPlK3H52IHagYpQ5uA9bf4mTA3I7sbqC7SLw=="
+          },
+          {
+            "name": "EPISODIO 34",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWRN3e8ewIeL6cDgohBmIf2A6Oy6LWvbPlK3H52IHagYpRAE87KhGsLBuGK4vmzSA3w=="
           }
         ]
       },
@@ -2712,18 +2740,6 @@
   {
     "name": "ARGENTINOS",
     "lista": [
-      {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png",
-        "name": "CANAL 13",
-        "uri": "6GeJNUDzTnDMgn0VKcbqqnzk7Wox5W5dGB8/UUrsl26I4swbUryoo5x6Zf+KEnZmTH+y0sBf85zQVk7eSAL/IIv204Jze7tBGZ7VGEbcAdZ1zfVwtHeGJl5nXY/Ebjs3",
-        "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/mMXmT7u9eQOu+ZXXpzdNrQuZvIn+qWjbSwP4Dgk+zUXAnqaBMQ6LVKKXqhm3JQDmuJgze/vP4xU93E1h4zroeswrOI1vdDlTy3iN+7xB4AH"
-      },
-      {
-        "icon": "https://i.imgur.com/ZNxmxUG.jpg",
-        "name": "TELESOL SJ",
-        "uri": "EKH2VCCebW5vadMYFLXA0AQtdYd8I6HpuEZjMkMJ2WHKsn/qcvTNb1wCylat+LaEs3ofGIwM2MZurRUfRRoH6rZlaY39dQRjczuMLeUN0nU="
-      },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
         "name": "AMERICA TV",
