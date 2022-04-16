@@ -1,6 +1,6 @@
 [
   {
-    "name": "PELICULAS ESTRENOS Y  MAS",
+    "name": "PELICULAS ESTRENOS Y MUCHO MAS",
     "lista": [
       {
         "name": "ANDROID TV",
@@ -366,6 +366,10 @@
           {
             "name": "Episodio 2",
             "uri": "aqjOEhWtVS9CYLQkJfIDWZtCxTzfCfNR0qAJ14TIDIHtndCrZR6p3PY779WQmKkTLzS4HnBVbUz3UpaJgIAE9A=="
+          },
+          {
+            "name": "Episodio 3",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWZtCxTzfCfNR0qAJ14TIDIGNnJuPK0WhTTjSF/eauyH8+2WeXQcIRN9/KTu7cyuWzw=="
           }
         ]
       },
@@ -384,6 +388,10 @@
           {
             "name": "Episodio 3",
             "uri": "aqjOEhWtVS9CYLQkJfIDWXia0xPwevqJkwUJR5/5MLxx129cZeL0C1H80ynJUHyQ"
+          },
+          {
+            "name": "Episodio 4",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWXia0xPwevqJkwUJR5/5MLwqOgpCkxXwQ09Nw+m/uzPj"
           }
         ]
       },
@@ -457,7 +465,7 @@
           },
           {
             "name": "EPISODIO 17",
-            "uri": "aqjOEhWtVS9CYLQkJfIDWQOBP705bV5e7+fNeGS//+jFG+eEA4jrAOiXTxLCMtRSA2mh0Byf9UaZx+2x9qZB/w=="
+            "uri": "qjOEhWtVS9CYLQkJfIDWQOBP705bV5e7+fNeGS//+jFG+eEA4jrAOiXTxLCMtRSA2mh0Byf9UaZx+2x9qZB/w=="
           },
           {
             "name": "EPISODIO 18",
@@ -2191,7 +2199,7 @@
         "icon": "https://i.imgur.com/2W7kl6B.jpg",
         "temporada": [
           {
-            "name": "Locomotion",
+            "name": "LOCOMOTION",
             "uri": "P4rUDa6Dhzj2Kx75WJOoNu2f4PcrQQ66PUCaSJc1ZTkUN4xyjdqFMd32kJD92Lsk"
           },
           {
