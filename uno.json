@@ -2034,6 +2034,10 @@
         "icon": "https://i.imgur.com/2vSS9cd.jpg",
         "temporada": [
           {
+            "name": "JURASSIC ISLAND",
+            "uri": "eRu46h8kxVLWNzlfht/1OFEgcJUG52ypZuGMAtgyW0qw8bryjbIRXyIsSnnO7wVH5W0x87i0hUUOwuNXFqN5Dw=="
+          },
+          {
             "name": "THE BATMAN 2022",
             "uri": "aqjOEhWtVS9CYLQkJfIDWYNL7js1FQu0zZrgqxW/wSR2P/b2UIMjSp47eNozLZaKKnLKoJ5CG+9qX2fk7emOAA=="
           },
@@ -2429,6 +2433,10 @@
           {
             "name": "Episodio 4",
             "uri": "aqjOEhWtVS9CYLQkJfIDWXia0xPwevqJkwUJR5/5MLwqOgpCkxXwQ09Nw+m/uzPj"
+          },
+          {
+            "name": "Episodio 5",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWXia0xPwevqJkwUJR5/5MLxNCWE/JMEPhAftd1I89Bf4"
           }
         ]
       },
@@ -2591,6 +2599,22 @@
           {
             "name": "EPISODIO 39",
             "uri": "aqjOEhWtVS9CYLQkJfIDWRN3e8ewIeL6cDgohBmIf2A6Oy6LWvbPlK3H52IHagYpadNDi9Jo6u42SlSgyIdjnQ=="
+          },
+          {
+            "name": "EPISODIO 40",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWQOBP705bV5e7+fNeGS//+jFG+eEA4jrAOiXTxLCMtRSIqfqxPiQBk7v3eCBgnSKxw=="
+          },
+          {
+            "name": "EPISODIO 41",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWRN3e8ewIeL6cDgohBmIf2A6Oy6LWvbPlK3H52IHagYpCeGzjX6ELjpRI+HdV9rKJw=="
+          },
+          {
+            "name": "EPISODIO 42",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWRN3e8ewIeL6cDgohBmIf2A6Oy6LWvbPlK3H52IHagYpknf1JmJXsb+LLaS2keuNfA=="
+          },
+          {
+            "name": "EPISODIO 43",
+            "uri": "eRu46h8kxVLWNzlfht/1OHtB3/5+Oc2l78D4vM3eYGrM0J/EFWw0AomwUdhDwRCDg6mBpho29im52RdnqAZwQA=="
           }
         ]
       },
