@@ -552,91 +552,77 @@
     ]
   },
   {
-    "name": "CANALES INFANTILES",
+    "name": "INFANTILES",
     "lista": [
       {
         "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/36ca8d84-6901-4041-b5ba-226e38413714.png",
         "name": "CARTOONITO",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yLNJmmf7RhGlv1useYDooGhlfjrC5hWc491Yt86iQMSKCK3GfyiNGnkOy8PzWXlYQvLLUbVGU92wxb7Br+N/Jl",
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2doU9YNLJRd8JaMQViuSVXPOsvmcOdrtGSAbIC5dU1mQULgKa5hEnxmK7e8mpRzsAXByQdR200Hm2Z0CItMHlIyq",
         "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLrTc1b1NZ0WID4jCuyGYBJEaNypYC4qcxFK GIF1vHbSrwNR2awk4qQJFHf1u+54ZNxdi+KJU/xhfsPX+A2m8HjE"
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLo10mkw3LXGfM5UHlZqW455WVkQxccoBlPBXD2g7S+TVT5WPQMbiHkeIPiGD0RQQqrbE6QT5Vmc2Bbb7X3RvgMv"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png",
         "name": "CARTOON NETWORK",
-        "uri": "U6NqFyLqAa/7gjAwOBrY9GlX7peVxyfk8hd4unTt1d6HYkg5eSdQRm7602zo8BYpyQSH8TqdGmvEe+FlKc73owg2CA6Ne7K0uXP+5O6BPE0dI3JBm4OLrzlib9NqRYU5knDpq3MOz4+uyvAlUpBk1Q==",
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dqiJz1M1lVBHBTOWWUR+RFtiLvKETs7jnqU5+Z71bhkdBv79RzXAqNKPhFuXK99KAiloDxRfKr4Nn2bNGrErcqq03RUTv7qeKvTe8CiYPAa3A==",
         "drm_scheme": "widevine",
-        "drm_license_url": "amWamu3RUm+ppyNIum67AmHhNWBGPgGXfvtbiKiQBQKJWe9CHg0k1j1bYZSr7prsDHZPwklIdqx9p0+oCqwEFTKwfdyr/rcXuQwfdAl31XSIlcEabyd5+qFfUlL7mdb6mUvE6drtLBhOeLyvTEbeCfJDw+G4GsGII4cpK6Sjj24="
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLo10mkw3LXGfM5UHlZqW455WVkQxccoBlPBXD2g7S+TVT5WPQMbiHkeIPiGD0RQQqrbE6QT5Vmc2Bbb7X3RvgMv"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",
         "name": "DISCOVERY KIDS",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4x1x9D4ftwywu7HgAx/PDsjdl0CkK5OD0QqiU5YrqCTZE9vYQaB8nbgmvMTvNaW1QOznKGRCFHuW/zH6h7ATAKR",
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dpL0vyjWD85BX3yL7VylAgLA9BGlJ3swbmyuwBOASFz4Ag2123mIKt2+9DG0XtaM8Achkcpfbpz6iyPPOi08YbY5nuE4yZDT49I+BrCMGLhsg==",
         "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLrTc1b1NZ0WID4jCuyGYBJEaNypYC4qcxFK GIF1vHbSrwNR2awk4qQJFHf1u+54ZNxdi+KJU/xhfsPX+A2m8HjE"
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLo10mkw3LXGfM5UHlZqW455WVkQxccoBlPBXD2g7S+TVT5WPQMbiHkeIPiGD0RQQqrbE6QT5Vmc2Bbb7X3RvgMv"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",
         "name": "DISNEY CHANNEL",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zQOCLhVQwNTokXtLu17CJiyNGE3NsbS3lwuLN60yUaj614hC4ApXGDI8Bu02PvfQF8iPWNDpEo3jlTIcyiuptf",
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dqHSpiyZOkzt9mFxLAuqocJoRf9nVdM7GupT4/AxCY+FSQGMQLnuEJpdeQ9hhhQwvAssLp0voMC3QhJSFKB/Ihz7nOV5RW9mnY8Kd6ybB/HGQ==",
         "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLrTc1b1NZ0WID4jCuyGYBJEaNypYC4qcxFK GIF1vHbSrwNR2awk4qQJFHf1u+54ZNxdi+KJU/xhfsPX+A2m8HjE"
-      },
-      {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png",
-        "name": "DISNEY XD",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wdwh/hqQF0rQoe9FXHCAgKU/8MftFpSDcdioHNgb+/5jOvvNWHZnoi/hEi821SRUrswwwPTvO0Hn0LHxnPYMeQ",
-        "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLrTc1b1NZ0WID4jCuyGYBJEaNypYC4qcxFK GIF1vHbSrwNR2awk4qQJFHf1u+54ZNxdi+KJU/xhfsPX+A2m8HjE"
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLo10mkw3LXGfM5UHlZqW455WVkQxccoBlPBXD2g7S+TVT5WPQMbiHkeIPiGD0RQQqrbE6QT5Vmc2Bbb7X3RvgMv"
       },
       {
         "icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2Fb%2Fbb%2FDisney_Junior.svg%2F1200px-Disney_Junior.svg.png&f=1&nofb=1",
         "name": "DISNEY JUNIOR",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wI0K0bot24xhiON7kDguZkKo0GMgDxn8aEH0Ksys1kU04VAoCUidtJg4FKkoET18sbRKit4cmVeQOjGaTLcAD/",
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dq/oW6HHrkOC5Tpw7UAybp7TmgNbTs3XY2lrMnDSJLJ6vi5gsxAxhW8ncJS1Pv8uvksPJYBQsz9UufypnCFOBCA",
         "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLrTc1b1NZ0WID4jCuyGYBJEaNypYC4qcxFK GIF1vHbSrwNR2awk4qQJFHf1u+54ZNxdi+KJU/xhfsPX+A2m8HjE"
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLo10mkw3LXGfM5UHlZqW455WVkQxccoBlPBXD2g7S+TVT5WPQMbiHkeIPiGD0RQQqrbE6QT5Vmc2Bbb7X3RvgMv"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",
         "name": "NICK",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zq9evBc0dfNxlOYFJNPAvFye3l1EHYC6K7defscrDyoTJQMN4l1WlZulia3yCmGhiHfSdQtJUcm4/YBiwHMR3H",
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2drRqsoVODIIihZyiFgAuNzIJ7boK5GxRk7mGPE1/VfDXcRfBlf8Z9dvtEA4zQ4SZO0k+EFcW2IHvU9Q/0wcKAHD",
         "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLrTc1b1NZ0WID4jCuyGYBJEaNypYC4qcxFK GIF1vHbSrwNR2awk4qQJFHf1u+54ZNxdi+KJU/xhfsPX+A2m8HjE"
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLo10mkw3LXGfM5UHlZqW455WVkQxccoBlPBXD2g7S+TVT5WPQMbiHkeIPiGD0RQQqrbE6QT5Vmc2Bbb7X3RvgMv"
       },
       {
         "icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fa1%2FNick_Jr._logo_2009.svg%2F1280px-Nick_Jr._logo_2009.svg.png&f=1&nofb=1",
         "name": "NICK JR",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zF2I5sBNSTD+9/hLKW0onOrw8odM40d7u95Pa32nNt9o4/vgp+8EfHvxyxEb476rM=",
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dr1HP1cSJbbBnb8Bd76ZY2LdLRkCj528srCdaSOPKtYGPumEidAfV/uLVZRRevhgl9tRmrGOMFpZwdpKmar+gqH",
         "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLrTc1b1NZ0WID4jCuyGYBJEaNypYC4qcxFK GIF1vHbSrwNR2awk4qQJFHf1u+54ZNxdi+KJU/xhfsPX+A2m8HjE"
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLo10mkw3LXGfM5UHlZqW455WVkQxccoBlPBXD2g7S+TVT5WPQMbiHkeIPiGD0RQQqrbE6QT5Vmc2Bbb7X3RvgMv"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/it/6/6c/Baby_tv_logo_senza_sfondo.png",
         "name": "BABY TV",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xO0UV85W9QHAfT2YPvJuThSx/Cois3jXwhhWvEi3zunI8KB5UlffRFy9bE3tMlU64=",
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2do55ILZyOxNVL2jXbBNeUc9pch3bWn90vfUwd6x/dVBD983aGakv98+rYLdTccn4BexPI+23gXUHcK1tMKBr8HM",
         "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLrTc1b1NZ0WID4jCuyGYBJEaNypYC4qcxFK GIF1vHbSrwNR2awk4qQJFHf1u+54ZNxdi+KJU/xhfsPX+A2m8HjE"
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLo10mkw3LXGfM5UHlZqW455WVkQxccoBlPBXD2g7S+TVT5WPQMbiHkeIPiGD0RQQqrbE6QT5Vmc2Bbb7X3RvgMv"
       },
       {
         "icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Ftvcable%2Fimages%2Ff%2Fff%2FTooncas_logo_jpg.png%2Frevision%2Flatest%3Fcb%3D20140720173926%26path-prefix%3Des&f=1&nofb=1",
         "name": "TOONCAST",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wphR6B/w5ukkJu2FtGOxvURYxbsUPp+kosUFYljUk6rcaE5bWTNU8KPppY2ZwBaczeoaDKv8QbxIvKWLuhjJwB",
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dqMnZtM22oCk8/8QCFg0t4LsnaDOcD8NCTDQSR7OfK8Crs6e/TWI56tgGkdV1DjoWkVgqB0naHWL0u6mbT1P8OD",
         "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLrTc1b1NZ0WID4jCuyGYBJEaNypYC4qcxFK GIF1vHbSrwNR2awk4qQJFHf1u+54ZNxdi+KJU/xhfsPX+A2m8HjE"
-      },
-      {
-        "icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F54%2FNatgeo_Kids_logo.svg%2F1200px-Natgeo_Kids_logo.svg.png&f=1&nofb=1",
-        "name": "NAT GEO KIDS",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yOGVforzPIxeyKb4mfgGhCWl6KreDNIlNCo3baGpIJGcTdRKoD/2+tuNGmxHE7AyspbmBh0FRB0DEzlUnTPCOl",
-        "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLrTc1b1NZ0WID4jCuyGYBJEaNypYC4qcxFK GIF1vHbSrwNR2awk4qQJFHf1u+54ZNxdi+KJU/xhfsPX+A2m8HjE"
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLo10mkw3LXGfM5UHlZqW455WVkQxccoBlPBXD2g7S+TVT5WPQMbiHkeIPiGD0RQQqrbE6QT5Vmc2Bbb7X3RvgMv"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png",
         "name": "PAKAPAKA",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4w/C0Y+bwQRO569krMNBlSvOUUVV8nVmyeEcEFAOx5euKgiMQpcsGkYCU5ZtNfvhT3LZzfm6XN+so3LykhrBM7M",
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dqxJD9o9sOiV3DaXTbZWd+L5r6TN1IWjy+wKvKT1huvq1YKDwb3Log3qFeuOnN8eRS8YRaO9p2ZE5s2I03n0edi",
         "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLrTc1b1NZ0WID4jCuyGYBJEaNypYC4qcxFK GIF1vHbSrwNR2awk4qQJFHf1u+54ZNxdi+KJU/xhfsPX+A2m8HjE"
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLo10mkw3LXGfM5UHlZqW455WVkQxccoBlPBXD2g7S+TVT5WPQMbiHkeIPiGD0RQQqrbE6QT5Vmc2Bbb7X3RvgMv"
       }
     ]
   },
