@@ -431,7 +431,7 @@
         "drm_scheme": "widevine",
         "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
       },
-            {
+      {
         "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/c12f19ec-fff5-4f21-a599-2a3b10f70833.png",
         "name": "DIRECTV SPORTS 1",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWPFUUFnJBD2V+4ONbQyzItCsiLgCee18nosEd7Fw52bQ==",
@@ -451,8 +451,8 @@
         "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/68150d12d02ab2a071327a29049a63b4",
         "name": "DIRECTV SPORTS PLUS",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVCuppXpTkKbTfb7sHfVEB33rYRSr170He6l+x6FZNgsg==",
-       "drm_scheme": "clearkey",
-       "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwNuvOzBipUZUh8a3Wf4DCVr",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwNuvOzBipUZUh8a3Wf4DCVr",
         "drm_session_for_clear_content": true
       },
       {
@@ -517,7 +517,7 @@
         "name": "TYC SPORTS (PLAY) 11",
         "uri": "uxY15lQHplqNf/4ok2223zFwXrCQtsRlIuB608ElUKaZSVqvx8zXN3r5XEcbEMGk1k+vhjuLjqKi\ndkhetXsXiWrqEcQj0MqvEoEA/3h1umDn6Eo4H5n7XfkoEtplD6+Z\n"
       },
-     {
+      {
         "icon": "https://static.flow.com.ar/images/685/CH_LOGO/350/500/0/0/3464211407358.png",
         "name": "GARAGE TV",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4x6UmCjF9811leOWkZgdVDucvOVdrEkhv5BJXVVDGSulM8JgFEq6sL7EZinoYqyAF/EnCumzH3ZkXyzAPDhrfV8",
@@ -1986,6 +1986,10 @@
           {
             "name": "UNCHARTERD 2022",
             "uri": "aqjOEhWtVS9CYLQkJfIDWelzjy/V/AqRit8D8lQGxgphIOhovIrNnY71hBO+1rQ7Kv1RPWT8luUBVov/OdxPjj8IkVyQ2CVPitOYbgmGqQc="
+          },
+          {
+            "name": "VIRUS 32 -2022",
+            "uri": "xrQ5iQ91wFkYfiIt1BUV4nJXlXMh9l+W0nOj/bDxHphJfhT01co4jCj1YKlHGMrqG+0GO7TI5mim9nPus4xLfN9mp23fRY9TQ2QxcvfwgaY="
           },
           {
             "name": "JURASSIC ISLAND",
