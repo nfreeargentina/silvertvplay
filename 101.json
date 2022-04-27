@@ -693,40 +693,35 @@
         "name": "UNIVERSAL CINEMA",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXvqCOyrhUuWEEalf/TK/Bg5D/BHlp8MyR9zpve5X3f5Q==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwM8FTZdJniw+9jYPUfQGtaE",
-        "drm_session_for_clear_content": true
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwM8FTZdJniw+9jYPUfQGtaE"
       },
       {
         "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/17e6fb07-1a95-411c-8ae5-2a408142ad6e.png",
         "name": "UNIVERSAL COMEDY",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVbA57AsmprxVLRMEtr75/myEF922Qy3jG79h9rTel4sA==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwN8cktx8M3UrIBqmwMaNJht",
-        "drm_session_for_clear_content": true
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwN8cktx8M3UrIBqmwMaNJht"
       },
       {
         "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/e6b10211-c3ed-4f58-9553-8bafdb3c7c84.png",
         "name": "UNIVERSAL CRIME",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXkcCZ/trMWk4UzJffm3zTdyAWHPg/OsDxUTQys+QyfWg==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwPOrHHxQUeeAw7Y+VvQI+6A",
-        "drm_session_for_clear_content": true
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwPOrHHxQUeeAw7Y+VvQI+6A"
       },
       {
         "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/5a59c443-ff70-4c4b-b624-de441a7a463d.png",
         "name": "UNIVERSAL PREMIERE",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnW9z4Se5t1zlSpxDQb4JlWso4Dz+EhuRtfe/bYmzub8GQ==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwPp8EMbNtyrvbdB1IIIHsA8",
-        "drm_session_for_clear_content": true
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwPp8EMbNtyrvbdB1IIIHsA8"
       },
       {
         "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/7e107481-768a-41ee-889c-7d1ca80b2cd2.png",
         "name": "UNIVERSAL REALITY",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUBl0U4gOrzzH2ANRQIdc7DjoLQ2GnIQ/6eFuOftlLK+w==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwPw1JZg8LfI5n047VHwVDxY",
-        "drm_session_for_clear_content": true
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwPw1JZg8LfI5n047VHwVDxY"
       }
     ]
   },
