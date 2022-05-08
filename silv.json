@@ -627,62 +627,63 @@
   },
   {
     "name": "PACK PREMIUM (HBO - UNIVERSAL+)",
+    "mode": false,
     "lista": [
       {
         "icon": "https://static.flow.com.ar/images/68/CH_LOGO/350/500/0/0/8527518907875.png",
-        "name": "HBO",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wP9b+BDd3g76ar0G52Sn0ejgeuzlQj+uImAu37MeCElP6d2XPxRa/xrYd0/RDoh9I=",
+        "name": "HBO HD",
+        "uri": "85wbMCT+JLwIVPf5uLLyvonMdJ/vWB87m8bEXurYBFW8biVP6KPDLoBRF5uN2awPJl2MM51KD617H2hCBZokIh/GU05AGViZ8iZIn/rjkxE=",
         "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLo10mkw3LXGfM5UHlZqW455WVkQxccoBlPBXD2g7S+TVT5WPQMbiHkeIPiGD0RQQqrbE6QT5Vmc2Bbb7X3RvgMv"
       },
       {
         "icon": "https://static.flow.com.ar/images/881/CH_LOGO/350/500/0/0/30164333072684.png",
         "name": "HBO 2",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4w9u0C+2++MJW0ezWMtcZ1FOPFqTxe9Aw6KEzBJc+6skHab1ALUMrGHaHx+dMI0bek=",
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dq/ZE9u+yCJgsQWDKCxm+MLMS/q+cjGR8IqBKI5BsTJgt6H6Okk+/azlSEnx6AISqA=",
         "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLo10mkw3LXGfM5UHlZqW455WVkQxccoBlPBXD2g7S+TVT5WPQMbiHkeIPiGD0RQQqrbE6QT5Vmc2Bbb7X3RvgMv"
       },
       {
         "icon": "https://static.flow.com.ar/images/883/CH_LOGO/350/500/0/0/17024645072165.png",
         "name": "HBO PLUS",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wH4HPS6AgIwDKtZijzAJ/z3R1A12ajuiWbnsRmO3TQvX/eoMH9d67SY+drAYBCgkWxlaWtgulqtjU6M7Z8Bf0D",
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dq/ZE9u+yCJgsQWDKCxm+MLxmWNne5kCbU+cTpH8QIoxd6vN8dgphIqtiZT/ZVwpK7vHaH0K9CoLt0Nt3s2dNR4",
         "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLo10mkw3LXGfM5UHlZqW455WVkQxccoBlPBXD2g7S+TVT5WPQMbiHkeIPiGD0RQQqrbE6QT5Vmc2Bbb7X3RvgMv"
       },
       {
         "icon": "https://static.flow.com.ar/images/704/CH_LOGO/350/500/0/0/931513860712.png",
         "name": "HBO MUNDI",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yTr6aZemleJE4HWengp0DOqo3Dgi1uCmiXyQPpLsJHw4yfI26mTFyRuxNtrXs6vGzwTN3TSOQKYxsg+YltGkmx",
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dq/ZE9u+yCJgsQWDKCxm+MLtevVJwduUVTL9d/96YsjBa6YDuMiApqSjZj825wYHl5WZCxxjGYTuhRDqWfnFSTm",
         "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLo10mkw3LXGfM5UHlZqW455WVkQxccoBlPBXD2g7S+TVT5WPQMbiHkeIPiGD0RQQqrbE6QT5Vmc2Bbb7X3RvgMv"
       },
       {
         "icon": "https://static.flow.com.ar/images/1441/CH_LOGO/350/500/0/0/71702634073927.png",
         "name": "HBO POP",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4x+e6ZWIjHRyqHv1a/7CFbNTamHjFjQ4WZvjo9LlVJpatB8EY+czXndyPdnvqv4J2M=",
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dqvbH76FnuAeOVm9YaC262exeQAcMpEJx+UMl7o31iHfbRT+QVhtpTEMq5e0ifpP9MtedYFGWhMYKx5QUE9YCDd",
         "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLo10mkw3LXGfM5UHlZqW455WVkQxccoBlPBXD2g7S+TVT5WPQMbiHkeIPiGD0RQQqrbE6QT5Vmc2Bbb7X3RvgMv"
       },
       {
         "icon": "https://static.flow.com.ar/images/705/CH_LOGO/350/500/0/0/7754024707334.png",
         "name": "HBO XTREME",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4ypSPv7VnSivtVIlkIXsz5Nyo/ghmhPxW96VRYoAjcdTR05D6IA7c91TKY5sDetfAe3GJTTPst+Tl5fxWHwRFN9",
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dq/ZE9u+yCJgsQWDKCxm+ML31lEcYS7wY9oDWwGBGCLjgS6Vq3leC12nAkRpz5pLDtX2P01J+Gm+RklDpVecqNa",
         "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLo10mkw3LXGfM5UHlZqW455WVkQxccoBlPBXD2g7S+TVT5WPQMbiHkeIPiGD0RQQqrbE6QT5Vmc2Bbb7X3RvgMv"
       },
       {
         "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/a8c31550-80c3-49c3-bda6-385fa7882ac4.png",
         "name": "HBO FAMILY",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zxMaiJMRP6WCHjyZz9dvBrSMmqiLCSQozVvea8hUGyKwuSlqnV66FXQqqKwPcWOG0SWH7C/zQVRrAnkk2Pp/tW",
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dq/ZE9u+yCJgsQWDKCxm+MLEBGnPllJc2Ir9IYzfMCKpLITw7CuF0UWBh3apqUKLvkGCxQvXoT4/5QAJ6qPvyqo",
         "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLo10mkw3LXGfM5UHlZqW455WVkQxccoBlPBXD2g7S+TVT5WPQMbiHkeIPiGD0RQQqrbE6QT5Vmc2Bbb7X3RvgMv"
       },
       {
         "icon": "https://static.flow.com.ar/images/884/CH_LOGO/350/500/0/0/1793376207500.png",
         "name": "HBO SIGNATURE",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4w5jDxMtqeybP0nunPEWsqAbwRXqW6SSmvceynWRHpSDfJn+LhakeNUm8Xoz8zUqfuF3xyiS+CHZW4UgSMeDTGi",
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dq/ZE9u+yCJgsQWDKCxm+MLKOmZHDMCWxPnqiFI95z4XFSrVQlQSqsiFfxF4aX6xfaAp7t0M6KREbeLZBXgeYKL",
         "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLo10mkw3LXGfM5UHlZqW455WVkQxccoBlPBXD2g7S+TVT5WPQMbiHkeIPiGD0RQQqrbE6QT5Vmc2Bbb7X3RvgMv"
       },
       {
         "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/078af29e-f83f-4850-9870-8829890b8656.png",
