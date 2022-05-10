@@ -336,23 +336,33 @@
       {
         "icon": "https://yt3.ggpht.com/NPkklF8BmJZaeYp7ewf-mutoi2SkNjcLI4uvHs-z6-VRh7yWvFL7JkauVsTVyZlQdhqoDdl89Q=s900-c-k-c0x00ffffff-no-rj",
         "name": "DAZN F1",
-        "uri": "0NpdYkal8DMJqPufs+3nZTYhV021a8GFsWUZUSRCw6KTLzwdcuFUgEG0dHXQh/b78Jjl4f/Eme4/pTePhRN6aMlDlnVihKviystWBejekivsXjOc+inmHUWRTb2PVgV9trphpqCrSTjRxc/YVIzrQ1u45VT1vw4JQIUftfNnMYA=",
+        "uri": "aQzLS6e/EXA49dg60WEabo4/hMKFISbucu8mDLhKS71baPNf17eMjmvC4vSIU0JoMkY/pUggNdsp7I7iYdY0yqACZMCOwBJ0YOeqrM6d1kmyEqVOkT4fgLoqi9Dw64CVvoc2Gr3iP98IP+kfJwVlk7jVxmLLxQ2YfQp8MLUm+lRzP6m8YI0/6nTqCHesXsNp",
         "drm_scheme": "clearkey",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCWTqKAERv42zb4qybMbU2jwEeppl9MjhXrlxlPOc9lO"
       },
       {
         "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
         "name": "ESPN PREMIUM",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wGT52mdeZ3SD1iRaW1YsEsrL/9o7RanpAtZhH3jELrewnnhceYtiVo9p0kU9KnD2HUf1qJ8t4bvkIoUHU0hvA0NDypQD19x9OeGk3MOObSBA==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "p3w4YOr2vcNcc+A/yk81qybcIfqZeY7FUj6YA2VPSQYZB4cCCb2LUpbELfflLCXS"
+        "uri": "LogkVm0GlzuipjDDZUWfRbcgj7HhaAf4KrkKykBz5S+Iq7uA5cfL2JhLTL/QU4bmovrrEu9oOY7x6USGA4BZ7GP2fe+eKeOZv7Uf5gM5bJRZfBxVbEeYcN3QOWvaUnYqjvgEKrAoGFOINzxCsLWJ1w=="
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
+        "name": "ESPN PREMIUM",
+        "uri": "U6NqFyLqAa/7gjAwOBrY9CKaQ/2vgouLGyXV9lqZILQYPnVF5KOeMSxS3tyCknbzymGMD3kA9BpUDQPfqzD8JEw0fho7u+cwKtJXhSQR01fccjOTgLCcZTp0qISF1MeKjoSDaz/VbQo/zBlCeRt9SmP+u4Yvvkre3c+DkrJV2Dk=",
+        "drm_scheme": "widevine",
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLo10mkw3LXGfM5UHlZqW455WVkQxccoBlPBXD2g7S+TVT5WPQMbiHkeIPiGD0RQQqrbE6QT5Vmc2Bbb7X3RvgMv"
+      },
+      {
+        "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/ac8c5fc2-b457-4784-8911-6b8cecd2b12d.png",
+        "name": "TNT SPORTS 1",
+        "uri": "LogkVm0GlzuipjDDZUWfRbcgj7HhaAf4KrkKykBz5S8OfjlzeBenMXRRjv4AlDkFSBbNBLfQJry17biYn7gQJ3WaP6SLngWEJ30Id6m5fkzxQ8HPweMz2TITqIe6Myk2"
       },
       {
         "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/ac8c5fc2-b457-4784-8911-6b8cecd2b12d.png",
         "name": "TNT SPORTS",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zv2CKQjXsDhUQfJMJMecEe1veXOGN2g2ogG51i7ACMEY8c0YiKS5DMWZ9lXOl329z+S60BJgX9qAx6rLvn/jv0",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "p3w4YOr2vcNcc+A/yk81q1jEhufk9PVqtlMvVFfdiS30fsPyyYmGfrt//USFpshz"
+        "uri": "U6NqFyLqAa/7gjAwOBrY9CKaQ/2vgouLGyXV9lqZILQYPnVF5KOeMSxS3tyCknbzAfUlA70Z+L90XwegjzDACUT/BhdXCYdDM5sDUL8X6LKEpkw7NTea4lg8X+SxxD9o8SV93NkRB7fiVIvlkh4ZfQ==",
+        "drm_scheme": "widevine",
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLo10mkw3LXGfM5UHlZqW455WVkQxccoBlPBXD2g7S+TVT5WPQMbiHkeIPiGD0RQQqrbE6QT5Vmc2Bbb7X3RvgMv"
       },
       {
         "icon": "https://static.flow.com.ar/images/280/CH_LOGO/350/500/0/0/71306601073189.png",
