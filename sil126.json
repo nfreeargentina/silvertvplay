@@ -12,7 +12,9 @@
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",
         "name": "TV PUBLICA",
-        "uri": "iPeoYYZ1jn0KkumPEHy+oAnrEmRU/eOzBhDnnZnXLN8I5YnFdTM+6ogzzM9hFIfPbpIguaXLQNSa74BU8QBaB1290TnEp4qykZo6NL5kOFwCgDlUo3J4uTYCxGCe2SNS"
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4z5XEVwEY6Airy3DLZuCph4SvDvpF6gyWAWPPO/youv8luaREPes9fLkZvIYNkBZpI=",
+        "drm_scheme": "widevine",
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",
@@ -24,14 +26,16 @@
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",
         "name": "TELEFE",
-        "uri": "h/sJ1RqoQOsjtTTfDCybETkxDfU7TpBmdVvuzgsaLbWsjDoWmyqWCXNv50TQSdf95CBnqq7hSpv94kDeh9S7DA=="
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zyueL4wE0Jqtu4vRS3TNBB/UiGKgEnQLN2kZZD0yblNKSbjQnnz4x04VHTY34z+p6NYLYOBZpmfErn6MLFTAkZ",
+        "drm_scheme": "widevine",
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png",
         "name": "EL TRECE",
-        "uri": "U6NqFyLqAa/7gjAwOBrY9GlX7peVxyfk8hd4unTt1d6HYkg5eSdQRm7602zo8BYplLA77YFDCOC904WBHhl7hG3d04VDYL2SjTOWRDXZPmzkJYULIC6CJhsYnteQlVnQIdC0iiCdu1WsthBh/aLb3Q==",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4x5cj3RmYBPeqp7YowvOlBKSde6PL0pefY59SL7usckNuQ2ohbZ6v1W6WKwXCpyBWcTlnWVvyPhJIReLa24RGOf",
         "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLqp7vl1Lq0XQyzzb7V4h0aSq25RY2tExxlBz0mIzaf1EgF5U1E73aQaUSNa3RzFXeRptZisvveGhB0LX2m52UnK"
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLoUVRSyoof6V6+vj/0gmBrLCZtxNwBfh0Fk dHuL1CYyS3VUVMr16NzGTECt0RLY3XbltAJYJdAflrcdABdIomZc"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1280px-TN_todo_noticias_logo.svg.png",
@@ -200,9 +204,7 @@
       {
         "icon": "https://static.flow.com.ar/images/8517/CH_LOGO/60/40/350/500/1830197007360.png",
         "name": "CANAL 10 RIO NEGRO",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4y4OujlbmeKU0olQfO7ipDjyT+TXB0XJo11oivEz+ZvENTlIhUjU4uPttd5WseFyHVeHk/xZ+AJm9ETkcqmiAWQtWOFpUu2NzvbGIjKJX7MvA==",
-        "drm_scheme": "widevine",
-        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLrPo7O6tE5L8o24a5RZkRK82lGzCBtHspaKxqbKpNFbhwMAJipd/1/9KMDbDBuV3ySrTzCP3tx0wKqkfvEFxVgV"
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2drfV1YrOeV3MDPQZwWcZ2lB+wQeB3rOdbPncNXZzIcAV4Whw/OEYRv0j6AZjDVXnL5cFSmIhHhdTTZ0W0LiGsH0Q+ZluVgy3YYknQlXuNsTRA=="
       },
       {
         "icon": "https://static.flow.com.ar/images/7879/CH_LOGO/60/40/350/500/76906680072003.png",
@@ -231,7 +233,7 @@
       {
         "icon": "https://geo.edge.pontiscloud.com:9002/images/482/CH_LOGO/80/80/350/500/25885319075824.png",
         "name": "AMERICA TUCUMAN",
-        "uri": "5YdyVi+PL8QZpLM9X5Sumvu8G+YNFeoqtFH+fldUWr1G95LzOIcP2QjbRCMJP2sb"
+        "uri": "sEKixRqkLwoS/3pzpbL3Ha2xZEgjYLhGy79pXnx9Edp2MfQz77SUi5ghSARI3ori2t/ryDB+7hg10PtpCswqTg=="
       },
       {
         "icon": "https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-Ocho-Tucutam.png",
