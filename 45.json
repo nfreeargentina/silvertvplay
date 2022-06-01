@@ -1205,31 +1205,7 @@
         "name": "Smithsonian Channel",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVzdh3CSo5a/I15QplHtSVPJLkw3EY8U8bKRrlJS5g2jA==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwNR3N9F3RTlOXWJE08ZFoWz",
-        "drm_session_for_clear_content": true
-      },
-      {
-        "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/86f324ab233e05d2e8f1bd4bb5cc7d94",
-        "name": "ON DIRECTV",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnX7/SqT58b7YDx+OBYnsBzcM7j8nrdTNYpKG+2JIM95PQ==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwODqQRCm0C0GxCmyGBHw7EN",
-        "drm_session_for_clear_content": true
-      },
-      {
-        "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/60197f6a-4c0e-44ef-a3dc-89df4b992bce.png",
-        "name": "CANAL A",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUNsEtM3yXC+SFsVKGO/UFHwgDo0M8B7pNy2lljL6rsgw==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwOg8tLljEi9HnPUF4cKPGXL",
-        "drm_session_for_clear_content": true
-      },
-      {
-        "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/b6e64e59-62a5-42f7-a2ef-9b1e146047cf.png",
-        "name": "IVC",
-        "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smmmuECoBwKaUk2n+ia/C6ZNFr+yRDYE3bwTaCvh6fuAuw==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwOTVvq44yaOgLAn1t0GWu0y",
+        "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwNR3N9F3RTlOXWJE08ZFoWz",
         "drm_session_for_clear_content": true
       },
       {
@@ -1252,6 +1228,30 @@
         "uri": "GC2/ddPzLVut0fvk2/wB4j72KYSRLipl/MEKlkdtFKL46EEThsqNUI4CWf6xpLT0TP0NwF4Rf2VIRu7UmPAg3A==",
         "drm_scheme": "clearkey",
         "drm_license_url": "p3w4YOr2vcNcc+A/yk81q/5UvWaWvrxdJm+GAH/dvOmI37EWFNNFDWZL0vhNcT/2"
+      },
+      {
+        "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/86f324ab233e05d2e8f1bd4bb5cc7d94",
+        "name": "ON DIRECTV",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnX7/SqT58b7YDx+OBYnsBzcM7j8nrdTNYpKG+2JIM95PQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwODqQRCm0C0GxCmyGBHw7EN",
+        "drm_session_for_clear_content": true
+      },
+      {
+        "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/60197f6a-4c0e-44ef-a3dc-89df4b992bce.png",
+        "name": "CANAL A",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUNsEtM3yXC+SFsVKGO/UFHwgDo0M8B7pNy2lljL6rsgw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwOg8tLljEi9HnPUF4cKPGXL",
+        "drm_session_for_clear_content": true
+      },
+      {
+        "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/b6e64e59-62a5-42f7-a2ef-9b1e146047cf.png",
+        "name": "IVC",
+        "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smmmuECoBwKaUk2n+ia/C6ZNFr+yRDYE3bwTaCvh6fuAuw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwOTVvq44yaOgLAn1t0GWu0y",
+        "drm_session_for_clear_content": true
       },
       {
         "icon": "https://static.flow.com.ar/images/1254/CH_LOGO/350/500/0/0/6858782907349.png",
