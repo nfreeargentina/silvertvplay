@@ -12,9 +12,7 @@
         {
           "icon": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",
           "name": "TV PUBLICA",
-          "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWva3lP0JLuNCG+qSMSghAzXlRI4t3xNycI/KMkAZmD6xNGs5wvRCrDmMSP24Pg0+sM=",
-          "drm_scheme": "clearkey",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibajRES4MIGDBlJ4vGveoSSi"
+          "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWvVqZyCm8garUqXG4V/LO6nVp0F+7YMCaKBiP4U1inOwzYsmXHDJ/+jWl4VlPMcisM="
         },
         {
           "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",
@@ -66,7 +64,7 @@
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZxuGRPcAEJVqzifPa/jUPy"
         },
         {
-          "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/64096a92-3433-4ace-8a41-0b5f4b70b081.png",
+          "icon": "https://static.flow.com.ar/images/269/CH_LOGO/350/500/0/0/14814924073986.png",
           "name": "CRONICA HD",
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWtPTBx8jEVlskSpBZAACv/w5hMc7nVzi5pW3dvI9fxFKET/BxsknBfv62h0Mnanz79a2LfKFsawU5USM5zrld3/",
           "drm_scheme": "clearkey",
@@ -270,7 +268,7 @@
           "uri": "UNQg5R6SlSLHrj34FEU+kRZHhvAnOrkJcacLJjESkKLmTO1DLaGNlPkvdcwEIODO"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/el9larioja.png",
+          "icon": "http://static.dplay.tech/imagenes/el9larioja.png",
           "name": "Canal 9 la Rioja",
           "uri": "t59uELZdayTJoFF5qUPb5MOLI8ABKDW7Kh6r8rZXT9c5anP3KaslkMPXka1qz7xfTolETbCnXk1g7NEUaR2KXA=="
         },
@@ -342,19 +340,47 @@
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWuwPsnGNtXCdUK3z9r4/nJ33uGQBO8xKYvydxQc+92iMl0xcGEtKR9K+9L532aqudAeXkcR/Q/XRlzQZxtEjjXyGau/g5X0fK2nBtVF+755AQ==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZjaxepFR0qmid+iGbG37ZwwBWNkpwc8rOtF0oBCcsx2w==",
           "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "https://aermultinet.com/iptv/logos/radioformosa.jpg",
+          "name": "Radio Formosa Tv",
+          "uri": "SAnnkBmiEasVK1ydFO5arlW1qHRO4nFQ3RnC1GhQu4JsGtCJkeS7Egoj+L0xgm3fdgDfZQWNOAh91fsIXksPl9ZXSEa4VSl4Y4+AYHYq0H0="
+        },
+        {
+          "icon": "https://aermultinet.com/iptv/logos/agenfor.png",
+          "name": "CANAL 3 Formosa",
+          "uri": "SAnnkBmiEasVK1ydFO5arqGj6KoroC9RtA5gVoUWgS7fuXPDBEROsf4dTGcD3aexY4uy9D4jB6OWBXOtX+9NsQ=="
+        },
+        {
+          "icon": "https://aermultinet.com/iptv/logos/lapachocanal11.jpg",
+          "name": "LAPACHO CANAL 11",
+          "uri": "bFs+dsm6AwiAaA//kk0zbheUPp6MOTPbF8qxAmM7fJOsHanV9zRoHY+UgFjk70k9jOVZHbgPXiX2MCsI1p7EtA=="
+        },
+        {
+          "icon": "https://aermultinet.com/iptv/logos/naineck.png",
+          "name": "NAINECK TV",
+          "uri": "YLdKP1SZFu+rkCHhlDVHwpb+SLOj/EclRMbT7H5qCNmf9772wyuz/0WrbV3Qe0UNXqXAMRO0rrGjo+j5mKrmiw=="
+        },
+        {
+          "icon": "https://aermultinet.com/iptv/logos/BCC.png",
+          "name": "BCC NET CHACO",
+          "uri": "SPrM94xAnLFF1OVdICm+B6ezR+JVJJu0nTHcH0TzKZhq+MyWUDubHiqm4H6nzWMUCVMoUg++fLzNdOszpfbTBA=="
+        },
+        {
+          "icon": "https://aermultinet.com/iptv/logos/radioiguazu.png",
+          "name": "RADIO IGUAZU TV",
+          "uri": "SPrM94xAnLFF1OVdICm+B4lvcK5QorR5/Gd67iSsmkKPU+tGyvJU9aKiu/8x1Dnp"
+        },
+        {
+          "icon": "https://aermultinet.com/iptv/logos/radioaer.png ",
+          "name": "RADIO AER STUDIOS TV",
+          "uri": "YLdKP1SZFu+rkCHhlDVHwr+DuhWnL9iZAcNvnUih+6ej8isLqAE0JvQHmviLnCj1rdH1mTdDliRRSwz5oUPLsg=="
         }
        ]
     },
     {
       "name": "DEPORTIVOS",
       "lista": [
-        {
-          "icon": "http://static.dplay.tech:8080/imagenes/daznf1.png",
-          "name": "DAZN F1",
-          "uri": "aQzLS6e/EXA49dg60WEabo4/hMKFISbucu8mDLhKS71baPNf17eMjmvC4vSIU0JoMkY/pUggNdsp7I7iYdY0yqACZMCOwBJ0YOeqrM6d1kmyEqVOkT4fgLoqi9Dw64CVvoc2Gr3iP98IP+kfJwVlk7jVxmLLxQ2YfQp8MLUm+lSeHYbWfYDp67LZVUrANcrv",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZdn1N05WtlxoVRJudcVOOk",
-          "drm_scheme": "clearkey"
-        },
         {
           "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
           "name": "ESPN PREMIUM",
@@ -363,8 +389,15 @@
           "drm_scheme": "clearkey"
         },
         {
+          "icon": "https://static.flow.com.ar/images/3543/CH_LOGO/350/500/0/0/45176151073950.png",
+          "name": "TNT SPORTS HD",
+          "drm_scheme": "clearkey",
+          "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVwtvmCTp5rM6kvX4XduF9N8DGKNwg+HhwKLyGnYG9c1A==",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibY8VgZlqH8y7k4LHt0wYZEP"
+        },
+        {
           "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1659976544351",
-          "name": "TNT SPORTS",
+          "name": "TNT SPORTS HD+",
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWtueUt1KXIBsLg5mlRwyEMy2TeLDvu1RpeOTr09N8qyEED6dpzQGkVv7NSxvq3xbQQXERRkiFluKJxTV0qjEj/S",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbhbaY0OK3uG7YqB93sULfO",
           "drm_scheme": "clearkey"
@@ -389,13 +422,6 @@
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWuLx7kL3Wr1z+xbOHJjCfzYfPQN5kpprofGAY2HrK1z3cEWWQCjIekIt7j5YFOuJtU=",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbblCf3TrYW2FZZFPJYFMZ7",
           "drm_scheme": "clearkey"
-        },
-        {
-          "icon": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png",
-          "name": "ESPN 4 HD",
-          "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWvhdbv0BziT5uydak9nKzoUp+3dkgBCyoBJDnMoGq5ITfISrtR1aFXdT+5Z3/D4G+4=",
-          "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLp9h8PrvefXzwiIYqQPaQElTL39TjfpDee3l4SKERqOEjzNH7hi1ZpeQTroeFoTdPUKHCctOYv0Ddj21ya+nWMK",
-          "drm_scheme": "widevine"
         },
         {
           "icon": "https://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/54300512071132.png",
@@ -440,21 +466,21 @@
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/dtv1.png",
+          "icon": "http://static.dplay.tech/imagenes/dtv1.png",
           "name": "DIRECTV SPORTS 1",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWPFUUFnJBD2V+4ONbQyzItCsiLgCee18nosEd7Fw52bQ==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYgzsNmTA8AJNCiN4wp5ZzA",
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/dtv2.png",
+          "icon": "http://static.dplay.tech/imagenes/dtv2.png",
           "name": "DIRECTV SPORTS 2",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWkUrekaSs+Q1VQj4alcmFNm9Ymk2riLB4ts4v/qyqNQQ==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZuga+rrV3NBzmmfcDDfTbN",
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/dtv3.png",
+          "icon": "http://static.dplay.tech/imagenes/dtv3.png",
           "name": "DIRECTV SPORTS PLUS",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVCuppXpTkKbTfb7sHfVEB33rYRSr170He6l+x6FZNgsg==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYKSkh9kTmPzWUG++g6HI07",
@@ -523,6 +549,13 @@
           "uri": "uxY15lQHplqNf/4ok2223zFwXrCQtsRlIuB608ElUKaZSVqvx8zXN3r5XEcbEMGk1k+vhjuLjqKidkhetXsXiWrqEcQj0MqvEoEA/3h1umDn6Eo4H5n7XfkoEtplD6+Z"
         },
         {
+          "icon": "http://static.dplay.tech/imagenes/daznf1.png",
+          "name": "DAZN F1",
+          "uri": "XCAa2za6nPqIzLiQ5Z3jEGonX/jLC0ytdSXdQrr9gHuaS1tTMUrjJQaoR4Fd7gd7ai9kCzV9IknXaqy8v8mye2p2Hptn5V6sdEZqvAHDCVU=",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZdn1N05WtlxoVRJudcVOOk",
+          "drm_scheme": "clearkey"
+        },
+        {
           "icon": "https://static.flow.com.ar/images/685/CH_LOGO/350/500/0/0/3464211407358.png",
           "name": "GARAGE TV",
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWsGGzYop9yDk+JKVW4+vnaOdEXMI/ui9rgqUTlDS958/ai1VFJJLA19ZMSMCHrF3+JEZUmnZ1DKV5qDTIn0C7LR",
@@ -556,32 +589,6 @@
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWs4m9b/Y6vXQc4lBb1V5DgouYKrcd9+oZzUy7J5QGZnDcrstoIVHGuLW+7K4UTirhSPM69yZzoiGj9tGplnvoC4",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYtaPFWqAiZ0Dg/KUUt+bYy",
           "drm_scheme": "clearkey"
-        },
-        {
-          "icon": "https://img.sport-tv-guide.live/images/stations/a85.png",
-          "name": "BEIN SPORT Ñ",
-          "uri": "tCCYHaXdfeE2UXGmWEN+OPxDO+9leGRc+xA0hKbggTKfNLAvJd+9LAZbLbuXmIxp",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYD9/S11KYSZPIal2zpLycU",
-          "drm_scheme": "clearkey"
-        },
-        {
-          "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
-          "name": "E 24/7",
-          "uri": "rdln+3sJuk5+YoW5Lpn8UFIQTkn1aT56jxBfUhFYncu5baPHVJTO79WDsZqoYPLmc5AJ/8bmI8j+mQMuxn6MTb8e7CF3V16nyDtl26OJe5jT5volR83teSWwIQaXU8eK",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibY2Lid1Lchke9mxMDF7MpUr",
-          "drm_scheme": "clearkey"
-        },
-        {
-          "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
-          "name": "E 2",
-          "uri": "PL1FExyMRiDGt3y9DensFUfxNK0av7oEWKUy/KL4vppJYLJ6FRYQHuOxK5bszXHX9OeuNg0igcxZo1F+X1l1ocnV0bPy/fRLWcldsY5LUuzkFjBh0A7uc1naF1djkCNF",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYivZzpa1tOuJAir5RX0aJ2",
-          "drm_scheme": "clearkey"
-        },
-        {
-          "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
-          "name": "E 3",
-          "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0sBjN+krulksqCX4Glei+h"
         }
       ]
     },
@@ -720,28 +727,35 @@
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/uncomedy.png",
+          "icon": "http://static.dplay.tech/imagenes/universalcinema.png",
+          "name": "UNIVERSAL CINEMA",
+          "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXvqCOyrhUuWEEalf/TK/Bg5D/BHlp8MyR9zpve5X3f5Q==",
+          "drm_scheme": "clearkey",
+          "drm_license_uri": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZmomv4ktxKY5lhbkyk2dBs"
+        },
+        {
+          "icon": "http://static.dplay.tech/imagenes/uncomedy.png",
           "name": "UNIVERSAL COMEDY",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVbA57AsmprxVLRMEtr75/myEF922Qy3jG79h9rTel4sA==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibb8LyWCazbV0q/OV3EFKfiU",
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/uncrime.png",
+          "icon": "http://static.dplay.tech/imagenes/uncrime.png",
           "name": "UNIVERSAL CRIME",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXkcCZ/trMWk4UzJffm3zTdyAWHPg/OsDxUTQys+QyfWg==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbi2400+uAO2Gu6aMyf8nYr",
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/unpremiere.png",
+          "icon": "http://static.dplay.tech/imagenes/unpremiere.png",
           "name": "UNIVERSAL PREMIERE",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnW9z4Se5t1zlSpxDQb4JlWso4Dz+EhuRtfe/bYmzub8GQ==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbM5I5Yfg40lWbp98j86UVtoMeFb4KJlwFdip9S/9DssQ==",
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/unreality.png",
+          "icon": "http://static.dplay.tech/imagenes/unreality.png",
           "name": "UNIVERSAL REALITY",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUBl0U4gOrzzH2ANRQIdc7DjoLQ2GnIQ/6eFuOftlLK+w==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZY3ZcDqmoR9JV+eQdPeLpu",
@@ -753,14 +767,21 @@
       "name": "CINE",
       "lista": [
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/tvcortoslog.png",
+          "icon": "https://digitaltv.prensariozone.com/wp-content/uploads/2021/09/Logo-DHE.png",
+          "name": "DHE",
+          "uri": "TiDWXxCoGSmc5wtoV320QHhLqpM1NPi3WzCLf8c/F5wpyrPyhS0eannsHbeZSm4KMMYK40Nu5bk2NGle8IJWi3MloCm5rnW2GuJeZQ+afyee7Tn2+DvRg2mM9gc9JTDn",
+          "drm_scheme": "clearkey",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbPK4XENbuMMKkVQHQFFtVF"
+        },
+        {
+          "icon": "http://static.dplay.tech/imagenes/tvcortoslog.png",
           "name": "TV CORTOS",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUN33X0BnMOMR1YQCYLBNeodUbAoNuPY79W8Daku2E2Eg==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZOt0rcpnRmMdtjbvlzF2MH",
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/cnlatin.png",
+          "icon": "http://static.dplay.tech/imagenes/cnlatin.png",
           "name": "CINE LATINO",
           "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smm4iTLHR/9Z+BPhxxVyJw140LWcXTAfL/wRMR4QBL3RDg==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbVL33EMR2KaOH1AzoubEsowAs2LxCLumnFRK2tIBI7tw==",
@@ -851,7 +872,7 @@
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/snmovie.png",
+          "icon": "http://static.dplay.tech/imagenes/snmovie.png",
           "name": "SONY MOVIES",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXVBSu6yMA4FI6HKfGKgYgH7kQ7VXiX6fDgZeO4D2DgFg==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibaXIhuYZzGPpNH91chcRWdT",
@@ -914,7 +935,7 @@
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "https://static.flow.com.ar/images/261/CH_LOGO/350/500/0/0/37079692071250.png",
+          "icon": "https://static.flow.com.ar/images/261/CH_LOGO/350/500/0/0/98290467071250.png",
           "name": "AMC",
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWsxUoKdxHLK6D5O/HZ5IYV+tLQrq78QqwHGvkLl4TWAUxbTjGKlpcnSylCfKinyk2Y=",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZvUQd0hhB4poQHWZXVAdwW",
@@ -1085,7 +1106,14 @@
       "name": "NOVELAS y VARIEDADES",
       "lista": [
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/smithsonianchannel.png",
+          "icon": "https://static.flow.com.ar/images/9117/CH_LOGO/350/500/0/0/48405905077154.png",
+          "name": "Bravo TV",
+          "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWswNgJ3b/x7IOSdvg+4kYxQXFB0O/K1ztbczebspSc21Ob3oUSJ1/un1qeGPH1hwOM=",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibaRpjam0mg6shz78Z7SELzZ",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "http://static.dplay.tech/imagenes/smithsonianchannel.png",
           "name": "Smithsonian Channel",
           "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVzdh3CSo5a/I15QplHtSVPJLkw3EY8U8bKRrlJS5g2jA==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYiUL97MDa6CtkaqBjLeawSritNL0nFWdTdf2K/uyBpzg==",
@@ -1094,7 +1122,7 @@
         {
           "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzE1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1656693035915",
           "name": "Directv News",
-          "uri": "XxLRdt2lHZYH4ivykzOdm4neXrFXeDYejOWBZr3k2GQnkDDU/a91nDA7c/gtLw15x2+dTfkt+whMDoFCpQfNdQ==",
+          "uri": "rTxI/7tt7IwF1VA2IBLXy2AqbRyW0WSsFbHGKiX5C2/hLJhl7hn2RNYQMxcMJ8ZBQDOBuVzXgrT0VTlf1PzpDw==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYuXKAI5usyPrgJxfJrFQwKGMLJhE0/5/fL2EFNqaZRUQ==",
           "drm_scheme": "clearkey"
         },
@@ -1113,7 +1141,7 @@
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/ivc.png",
+          "icon": "http://static.dplay.tech/imagenes/ivc.png",
           "name": "IVC",
           "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smmmuECoBwKaUk2n+ia/C6ZNFr+yRDYE3bwTaCvh6fuAuw==",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibY5ztIJRlWccY5HI3RLMpFI",
@@ -1249,7 +1277,7 @@
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/santamaria.png",
+          "icon": "http://static.dplay.tech/imagenes/santamaria.png",
           "name": "SANTA MARIA",
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWsd6PSnElytjXuwjBGiOgavgPJOB0fX2sMukZUtYNBQcCNAi+qygGJUTyOG33Ekf9IiHnPkiqwOjR6YvMInQ7OU",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbrCLOlThq5ggLK6DzZu6hCSbVLnPySt60dbVwgR+e/cA==",
@@ -1274,6 +1302,13 @@
     {
       "name": "MUSICA",
       "lista": [
+        {
+          "icon": "http://static.dplay.tech/imagenes/concertch.png",
+          "name": "CONCERT CHANNEL",
+          "uri": "TfhSHcurc+Tgoa37m05pyYYrdXXi6NYgAjAUYsdnHKaCV31Xp09y2rT+9t8wazTiReayF3ONmJYAB3+d6Vq12HJ1tA2EFZhXFdr7Aj3prsFfio+lFvZS6/4aEoM5ooyVrsV13ikulG7dH/Ixdj8uLA==",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYQTTXAlJJ0qkInwexWmrAA",
+          "drm_scheme": "clearkey"
+        },
         {
           "icon": "https://static.flow.com.ar/images/715/CH_LOGO/350/500/0/0/80393273073281.png",
           "name": "QUIERO TV",
@@ -1303,7 +1338,7 @@
           "drm_scheme": "clearkey"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/MTV_00s_remaster.png",
+          "icon": "http://static.dplay.tech/imagenes/MTV_00s_remaster.png",
           "name": "MTV 00s",
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWvgw9/sLu/JonE5bgIbGrXr04UzsP11TrAmrXwRoZfQe8Qamb/cq2KY+D/6nIZ4ZPg=",
           "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZGuwZtHDZtRilp+vNOBRWg",
@@ -1558,57 +1593,57 @@
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0GxJgh3Ol5Iyhms3WxhOnU6hyLN/saks+gCeyRROBfbw=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/Caso_Cerrado.png",
+        "icon": "http://static.dplay.tech/imagenes/Caso_Cerrado.png",
         "name": "Caso cerrado",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0Jd1fIiZFsmvtnw+mIT5dGIgnoqS/s8HEJDI1tKVcbIA=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/duckula247.jpg",
+        "icon": "http://static.dplay.tech/imagenes/duckula247.jpg",
         "name": "El conde patula",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3Zo878Pg1HrgXKgUyA5KpGfDYQX1P+V6GpdfzUud+ARQ=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/elgalloclaudio247.jpg",
+        "icon": "http://static.dplay.tech/imagenes/elgalloclaudio247.jpg",
         "name": "El gallo claudio",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0sAb/RXYdIh5g9iZQ2TN5M1j70S6SrWSrqildYTQvhPQ=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/futurama247.jpg",
+        "icon": "http://static.dplay.tech/imagenes/futurama247.jpg",
         "name": "Futurama",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2r2se7CcMl7ovY5nggxN41/BnA9vx5wQm5Zw3UxtXl4Q=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/ironman247.png",
+        "icon": "http://static.dplay.tech/imagenes/ironman247.png",
         "name": "Iron man",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is1iWMEuG9o2KsDsEmxopVod0qCM/agrBAyJ6ow9xA3qRg=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/jorgelcurioso247.png",
+        "icon": "http://static.dplay.tech/imagenes/jorgelcurioso247.png",
         "name": "Jorge el curioso",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is16S4bCYazD9rEiK7KhXCBKVgXtkqEiFRRpxNDzsTjJyQ=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/larosadeguadalupe247.jpg",
+        "icon": "http://static.dplay.tech/imagenes/larosadeguadalupe247.jpg",
         "name": "La rosa de guadalupe",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3plTMFaogx7tDMsFVdsc2NTMaLnS6DfhzYEZeHOOjsAg=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/letemesalaoscuridad247.jpg",
+        "icon": "http://static.dplay.tech/imagenes/letemesalaoscuridad247.jpg",
         "name": "Le temes a la oscuridad",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2STa+s70pbrfv9gAv0yOns7RHZYK2n1zQParJ02eYniQ=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/losanosmaravillosos247.jpg",
+        "icon": "http://static.dplay.tech/imagenes/losanosmaravillosos247.jpg",
         "name": "Los años maravillosos",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2bFyCuz7XhGcjTc+95qjAcG1YkH1e95lHdjgFY+jKgvg=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/spiderman247.png",
+        "icon": "http://static.dplay.tech/imagenes/spiderman247.png",
         "name": "Spiderman",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2yovhpx6CPRvNHr0E/DOphwVlx3Kh3987iD6Ftope4QA=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/TBBT_logo.svg.png",
+        "icon": "http://static.dplay.tech/imagenes/TBBT_logo.svg.png",
         "name": "The Big Bang Theory",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0Fj5+JNHA+3xPJ1g62lFTWjWNkXLI37oRbS6F0PzJL9A=="
       },
@@ -1628,7 +1663,7 @@
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3kPEYxtnuTf2IbKBADqomm0vjwlod2nMnRjRZPqKOxTg=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/csimiami.png",
+        "icon": "http://static.dplay.tech/imagenes/csimiami.png",
         "name": "CSI: Miami",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is28Inh1j/BNPKU2nxez/ktCkz/W+vUlYoxJMOMNM/B5Rg=="
       },
@@ -1673,7 +1708,7 @@
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2MW3tvefvrqAEsOCH67wDESi2pYeeQ1CmLByGw6QAf8Q=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/garfield247.png",
+        "icon": "http://static.dplay.tech/imagenes/garfield247.png",
         "name": "Garfield",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2riQkBnKoreFn+4us25fMoR//xf+zvTYohY5xltbZCvQ=="
       },
@@ -1778,7 +1813,7 @@
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0cPa3Ivctv3rylPJnjR7qjJWaRR0RAfdcwp/JrST7w7w=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/lospicapiedra247.jpg",
+        "icon": "http://static.dplay.tech/imagenes/lospicapiedra247.jpg",
         "name": "Los picapiedra",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2W/UZ+tgWX2chaRLnurXlwSgtROg6BBt1DmtL0X0R4IA=="
       },
@@ -1793,7 +1828,7 @@
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2EjbhWwFCUAi9Ln1VMJf1ozezz79TWu6+Lm1VVY3Wlqw=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/candy247.jpg",
+        "icon": "http://static.dplay.tech/imagenes/candy247.jpg",
         "name": "Candy candy 24/7",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2A+MxOMxUjHhsDGrsW1oKuY2pNHLTMTV88BRGeJ9ZqIw=="
       }
@@ -1853,7 +1888,7 @@
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3fZ9gGAmgNuJnA0R4uwcwh8dxHklLM9RkTqu1S4yez0Q=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/Caso_Cerrado.png",
+        "icon": "http://static.dplay.tech/imagenes/Caso_Cerrado.png",
         "name": "Caso cerrado",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0Jd1fIiZFsmvtnw+mIT5dGIgnoqS/s8HEJDI1tKVcbIA=="
       },
@@ -1863,7 +1898,7 @@
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2iZ0HctXpMKzPtYJf/Ca/vUy8upmd9RyjVmrWncm2hyQ=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/csimiami.png",
+        "icon": "http://static.dplay.tech/imagenes/csimiami.png",
         "name": "CSI: Miami",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is28Inh1j/BNPKU2nxez/ktCkz/W+vUlYoxJMOMNM/B5Rg=="
       },
@@ -1979,9 +2014,120 @@
       }
     ]
     },
+       {
+      "name": "BRASIL (NO DISPONIBLE PARA ABONADOS DE PARAGUAY)",
+      "lista": [
+        {
+          "icon": "http://static.dplay.tech/imagenes/band.png",
+          "name": "BAND",
+          "uri": "Ll/rtJoO0mHoMBDB70bQKWC3op3cGloPS3O6y0WuZBRkPg4RxTsqjW9Eq9Rpcw0exYj8jcS2nJcVI55XmZRkZA==",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibY08WunQHz9SoNVsfQvg0Du",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "http://static.dplay.tech/imagenes/bandnews.png",
+          "name": "BAND NEWS",
+          "uri": "DYWBx5NsG5BY2GsUNzRm63qTIfsHlsIR24O0O8PLc0jXxdyi84P0e1pa4Nfcla9IiAv9lAr1aT3gO/HZU391Pt+jWM1LvYbcyZrqa0zdbr0=",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZS0sHbIFk4kk62PZJ2HzUh",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "http://static.dplay.tech/imagenes/bandsport.png",
+          "name": "BAND SPORTS",
+          "uri": "l+Rqlfzsq5INJL8zdHKytiakn5O9WxsadFMMNvckxUh7D+kEbX6h8O9/DfvWMiT5NjEZLqs4nU+Zm6WHyMlHLQ==",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZi2WY+XfrQfYazoVrm3FdS",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "http://static.dplay.tech/imagenes/bis.png",
+          "name": "BIS",
+          "uri": "hOzsQ48btqCdDusLmQq6zQstMQM2f/FqlSEMlMYc1kky67D73fcv2SOhJzP4+FWBusn63M6TbS2TEJwteH8ThA==",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYTkD3Zlr6kQrBZ3lmKLiIz",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "http://static.dplay.tech/imagenes/chbr.png",
+          "name": "CANAL BRASIL",
+          "uri": "hE+0n/LRN6hN1oyPlyNi97IO2W69g4g1YFm5NJ27nJP+EiNVROcFRoQa9Fn4+dirSJm8xT+HSYyGLZWpP2s2ZQ==",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibavUdRhewsGwpm0uSyUzT4p",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "http://static.dplay.tech/imagenes/globonews.png",
+          "name": "GLOBO NEWS",
+          "uri": "5YdyVi+PL8QZpLM9X5Sumijf/DdHZ8WKgAJTxKxhxQHvwxH+pq7NxPeUWi0WuJnP",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZTJq7sVFvyrVy11LHi2scR",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "http://static.dplay.tech/imagenes/futura.png",
+          "name": "FUTURA",
+          "uri": "jP3s9Wv2pLBTDlUO0ua8ttcbSCtyXSc46tO9F1yxLBEMBUvjawSbdBe7Y8OQyF8309YSrTkoTAIsF/vOiAUMsw==",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZtUoJNy6f8cza4A6RHUofZ",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "http://static.dplay.tech/imagenes/recordtv.png",
+          "name": "RECORD TV",
+          "uri": "5YdyVi+PL8QZpLM9X5Sumijf/DdHZ8WKgAJTxKxhxQF0n+k3oHXs4pwp/Az4BGW9",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZXeikdZZVNJwb8vCKIS51r",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "http://static.dplay.tech/imagenes/redetv.png",
+          "name": "REDETV",
+          "uri": "jP3s9Wv2pLBTDlUO0ua8ttcbSCtyXSc46tO9F1yxLBFAifRNFmu/vF/5L+a6Xpt+Gu8tFj6Wb2DET6itFEkN2g==",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZlDYUsCBUWIqKHgKWLZuMh",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "http://static.dplay.tech/imagenes/sbt.png",
+          "name": "SBT",
+          "uri": "jP3s9Wv2pLBTDlUO0ua8ttcbSCtyXSc46tO9F1yxLBEhk4aO8inAP+NEduyBBpC4iiNCCUQjxYNlE83U6pZFnA==",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibacLM6KsdlwJcvgywoZvSEk",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "http://static.dplay.tech/imagenes/spo1.png",
+          "name": "SPORT TV",
+          "uri": "5YdyVi+PL8QZpLM9X5Sumijf/DdHZ8WKgAJTxKxhxQGmkay5/FsU2kKH6syzKQO3",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibY9fuu5JhNqVd0ZwQRXcXwX",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "http://static.dplay.tech/imagenes/spo2.png",
+          "name": "SPORT TV 2",
+          "uri": "5YdyVi+PL8QZpLM9X5Sumijf/DdHZ8WKgAJTxKxhxQEoX5Xbn7gX+XHPJCsgkMEG",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibaxMMP0NRAqtlSDLEPspr5y",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "http://static.dplay.tech/imagenes/spo3.png",
+          "name": "SPORT TV 3",
+          "uri": "5YdyVi+PL8QZpLM9X5Sumijf/DdHZ8WKgAJTxKxhxQG0UVv4cFRDQ1vz+odbzpa/",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYZzMWuIlGPQAdFePUxAvrS",
+          "drm_scheme": "clearkey"
+        },
+        {
+          "icon": "https://wikidat.com/img/tv-globo-brasil-c9a64a05391369186b5e7b46460ac07a.jpg",
+          "name": "Globo RPC",
+          "uri": "t6lyHil6YU5Lscv26NWUSL9VZhR9AK6z3W0Ieis+k1EhMHpgl3SyEBn4sNA0C49UQSJhn7X4WIrUHNsRWVz78Q=="
+        },
+        {
+          "icon": "https://3.bp.blogspot.com/-TiWSY2rIWqg/WvYAGpVBBzI/AAAAAAAAyn0/YcghPYoIE8M95rgj2q55x1QzqClYmn-cwCLcBGAs/s320/combate-play.jpg",
+          "name": "Combate",
+          "uri": "t6lyHil6YU5Lscv26NWUSL9VZhR9AK6z3W0Ieis+k1EhMHpgl3SyEBn4sNA0C49UTP4oBmkH5yFceARePAKeSQ=="
+        }
+      ]
+    },
     {
       "name": "PARAGUAY",
       "lista": [
+        {
+          "icon": "http://farra.com.py/img/news/farra1510078907.jpg",
+          "name": "FARRA PLAY",
+          "uri": "SU/u30PNIhx1jx4NSSpPNmNqYAuNaxf3w0bJMESz24Q6jcTqybmpLivnsUUcSReo"
+        },
         {
           "icon": "https://i.postimg.cc/yxT9HMn7/visionvillarrica.png",
           "name": "CANAL 8 VISION",
@@ -2125,11 +2271,6 @@
           "uri": "iSA4veUQW4CwXkL/4O/E49tFZb50EA7WUNoMdmhNEx7EiJNhKIcQodTRqoZJZyAq5jQYKvsLuK/mDhgj8RhQRA=="
         },
         {
-          "icon": "http://visionplustv.com.ar/wp-content/uploads/2021/04/hqdefault.jpg",
-          "name": "VOS TV",
-          "uri": "6r39jUEWH4wZlcMebgXe8P69FBwy9xR/URoek/dNv6CZMPTCM1pfQWBKuif6YepfLITahI0kFfSL4Z9NJ4GsAA=="
-        },
-        {
           "icon": "http://visionplustv.com.ar/wp-content/uploads/2021/04/unnamed.jpg",
           "name": "XTO TV",
           "uri": "OZ8FMrF5bJ7RpMPETimoGYhJ1KYG0EifcTs96BFJRk7XITPSRiXTBOGrXMHsDdEygA2A6OFwA6yuslFSlx3ang=="
@@ -2167,10 +2308,10 @@
         {
           "icon": "https://upload.wikimedia.org/wikipedia/commons/6/66/Paz_TV.png",
           "name": "Pax TV",
-          "uri": "cbZBhF30U8I0CNhOCey5GkAFA2CSqdmTSij3dOKdwhy+c+9HLvIkg0uinkrvt0je9EuBCLRU0OB77eWUt9cO2XnP+ne53vSrtOGhTDV8R4c="
+          "uri": "oxh8ROTPnm7iBCu6rJiWHoRzbaOnqNX6lVWK/oL8CSRkn4keLcsFHtybA1IcQMQyYoc+9QW6ZX4s/XPeIaGru2BQ91FPdZ8pMfmMh/3Yl6W8DwSCpYFnuATZKtvv1wZS"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/bhtvperu.png",
+          "icon": "http://static.dplay.tech/imagenes/bhtvperu.png",
           "name": "BH TV",
           "uri": "yKU7mKLG58CyewwIxfVakQTzcTHp2kddN0xta+fXB8ZG02OqvbjqYIQzT08Ce6UhCt+RLez5uwo0AiVPZk2n1g=="
         },
@@ -2205,11 +2346,6 @@
           "uri": "PqBsY6pFgaUJsGWz5fmydfsdo2BBB7Y/FS+oBBRt9g4/Fhds4qh7JX7lgDpU/OSa"
         },
         {
-          "icon": "http://visionplustv.com.ar/wp-content/uploads/2021/11/descarga-1.png",
-          "name": "TV enlinia",
-          "uri": "ABynxaLD/o4P3f+AOFz9dR8rkz8obhunFzqweyKkVvcaNVqVxT/+QodvWj1rI3yJYIJssh4oYg69CQtPeqOIig=="
-        },
-        {
           "icon": "https://s-tg.americatv.com.pe/f/desktop/img/tvgo-image.jpg",
           "name": "TVGO América",
           "uri": "mq0MV1iSU3/MhTaNU6Nti6zdiqHGlWJhSvFEYr+2Ad5pjqaE/XW25te2tSzQx7J07ODoaDwcDcqemC/iLRZlkA=="
@@ -2232,7 +2368,7 @@
         {
           "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Atv_noticias_logo.png",
           "name": "ATV + Noticias",
-          "uri": "U1aw2D/lLwReus5bLP0uRWgR2f0hbJJGihc4e/NDWZBywUGgNFVxdx5je2MlKk5IY2RCLSk5LXE7eA83GWCHMcxOMLYR+Y9YlyHNROQiq+c="
+          "uri": "2j6N6BBi9J6bE5vGneT8YCrYECrcyRQVIGHzryTtFwK3cr7d4dnEAtLfcxoC5ceYe7TEb/hGjnRMBCfuSkvlDQ=="
         },
         {
           "icon": "https://autenticatv.pe/wp-content/uploads/elementor/thumbs/logo-web-p0scrodaccuo3azseya6goo9amqk8hdut43cbpqb5s.png",
@@ -2240,14 +2376,9 @@
           "uri": "CcVOGL/vthCTEyYOk6OA4y1P0VXIedjQ/rJNANEuz6HCjAixqJJW3n0d267mT9c3KgoDLH7XX78GsREFweXhhg=="
         },
         {
-          "icon": "https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png",
+          "icon": "https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png",
           "name": "Retro Plus",
           "uri": "yF0EdVd+88DHMuZ8sYWbp98nithK/8ra19AEXtGHTOU82Mo/F3h/c4c0bAk9dDdF7TY5+1Wl5kycfCtxbDWVG3vxMXTAsiJsim+vPCqusyYC6RycXlxax3YAbst09tfk"
-        },
-        {
-          "icon": "http://visionplustv.com.ar/wp-content/uploads/2021/11/descarga.jpeg",
-          "name": "Bella TV",
-          "uri": "kauYPVOnRFmrRlYNiq+LL+7nDzjlWhoSRbZqG1BqRHSoG48ow1ISaipT1ADMsP7Z"
         },
         {
           "icon": "https://www.coolstreaming.us/img/ch/image87580671255.jpg",
@@ -2255,7 +2386,7 @@
           "uri": "CDTDa1wj7pAITKbpAU/TgXhVTLgNUfqAwsrzpMsOptX2nQvP/4DSbNPdQypzo2cIHEOJrum6QCPiU4e9y1yjjQ=="
         },
         {
-          "icon": "https://tv.wurtlitzer.info/imagenes/canales/internacional/centraltvperu.png",
+          "icon": "http://static.dplay.tech/imagenes/centraltvpe.jpg",
           "name": "Central TV Chosica",
           "uri": "kGW/JXUaWanSloCoCVlD6B5Wu/xgEgl2/ILBw9rWxN8svixPW4bOp1EQ3pQZ3acrQvf6uvs4AqHjfmQNo4O5UIkoK6yqfGkkhVgpT3duGSUtA3oeMyk/CFwzJpdNMw3K"
         },
@@ -2267,12 +2398,7 @@
         {
           "icon": "https://televisatvdepaga.com/wp-content/uploads/2017/10/contacto-deportivo.png",
           "name": "Contacto Deportivo",
-          "uri": "CcVOGL/vthCTEyYOk6OA47ggbnzErRsJBWa9kfwghaQ7ZKDGhDiBr5sIOo/HdLb09Vnh2fnBK/FnrDZWOMO/3w=="
-        },
-        {
-          "icon": "http://visionplustv.com.ar/wp-content/uploads/2021/11/images.jpeg",
-          "name": "CR TV",
-          "uri": "CcVOGL/vthCTEyYOk6OA47ggbnzErRsJBWa9kfwghaTZ2A/YJN6kkr6MSMzmAFme3IGJO9wvBLWPFVLOX3RS+g=="
+          "uri": "v/+QVpTPW9vK4Po7lBbnNRCjoDgaZn0ndt79IQrw2tObivBulyg8+FWNjGMquubYAOiCcdjLRyB4b2lbdvEXDg=="
         },
         {
           "icon": "http://visionplustv.com.ar/wp-content/uploads/2021/11/unnamed.png",
