@@ -803,59 +803,59 @@
     "lista": [
       {
         "icon": "https://static.flow.com.ar/images/68/CH_LOGO/350/500/0/0/8527518907875.png",
-        "name": "HBO HD",
-        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dpNkK9YFBc/h+1Dh3v3yAB9g5erp9wg7NlRO9qsVplaac9kIVn/1HFBtlrWVZNLWUg=",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apR/KEiqTIh3dAqJaukN2rPg",
-        "drm_scheme": "clearkey"
+        "name": "HBO",
+        "drm_scheme": "clearkey",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnU7xIYOAuQzSVaXJZgBoms6V55YhpcQe5de5dwIWU0ozw==",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam7q5IQP3YhbnKztPm9kCkwvHDYmw/rnT1pQWMfV9Xz7q"
       },
       {
         "icon": "https://static.flow.com.ar/images/881/CH_LOGO/350/500/0/0/30164333072684.png",
         "name": "HBO 2",
-        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dq/ZE9u+yCJgsQWDKCxm+MLMS/q+cjGR8IqBKI5BsTJgt6H6Okk+/azlSEnx6AISqA=",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apT3txMw1rX2plmoieUudFgl",
-        "drm_scheme": "clearkey"
+        "drm_scheme": "clearkey",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVQNVP23TQCNADDswwlHnnhblrIjO0Rqm8FNM5K9mpCWg==",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqamzhoVp0Tu88RtP2gAPR7XaClNmUM+JuVI++tXEhJGlux"
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/882/CH_LOGO/60/40/350/500/9358483307335.png",
+        "name": "HBO FAMILY",
+        "drm_scheme": "clearkey",
+        "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smnlVM5J2kgGgabrrv+It4NagpHWEI2N1yOBLFXoCgPdaQ==",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam9Tki7Wg/m92WOtx8+vToZLJHCYCmXEGk7JvOrZFUuPC"
       },
       {
         "icon": "https://static.flow.com.ar/images/883/CH_LOGO/350/500/0/0/17024645072165.png",
         "name": "HBO PLUS",
-        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dq/ZE9u+yCJgsQWDKCxm+MLxmWNne5kCbU+cTpH8QIoxd6vN8dgphIqtiZT/ZVwpK7vHaH0K9CoLt0Nt3s2dNR4",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSEtN+NlEFC90peaZAfgu74M+2XkqruDind3FYzyo/eBg==",
-        "drm_scheme": "clearkey"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/704/CH_LOGO/350/500/0/0/931513860712.png",
-        "name": "HBO MUNDI",
-        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dq/ZE9u+yCJgsQWDKCxm+MLtevVJwduUVTL9d/96YsjBa6YDuMiApqSjZj825wYHl5WZCxxjGYTuhRDqWfnFSTm",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apS2iyzQcg6CE8pcHRvUXw6E3tTbL5x0IiZzbwLmnNpp7g==",
-        "drm_scheme": "clearkey"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/1441/CH_LOGO/350/500/0/0/71702634073927.png",
-        "name": "HBO POP",
-        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dqvbH76FnuAeOVm9YaC262exeQAcMpEJx+UMl7o31iHfbRT+QVhtpTEMq5e0ifpP9MtedYFGWhMYKx5QUE9YCDd",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTfUb1w/6O+DqUQTwd0Uk8qEP/Vhlaa/bLTMvBsB5Krsw==",
-        "drm_scheme": "clearkey"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/705/CH_LOGO/350/500/0/0/7754024707334.png",
-        "name": "HBO XTREME",
-        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dq/ZE9u+yCJgsQWDKCxm+ML31lEcYS7wY9oDWwGBGCLjgS6Vq3leC12nAkRpz5pLDtX2P01J+Gm+RklDpVecqNa",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTuSXIfCLKg04Z3nOetxF2JNcSyq7izm97yRSxaq0j4dA==",
-        "drm_scheme": "clearkey"
-      },
-      {
-        "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/a8c31550-80c3-49c3-bda6-385fa7882ac4.png",
-        "name": "HBO FAMILY",
-        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dq/ZE9u+yCJgsQWDKCxm+MLEBGnPllJc2Ir9IYzfMCKpLITw7CuF0UWBh3apqUKLvkGCxQvXoT4/5QAJ6qPvyqo",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQsfo6jPgB67ZqaBywCOeuMpKQTz38YVFM3enYFzWucTg==",
-        "drm_scheme": "clearkey"
+        "drm_scheme": "clearkey",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWzwu8O88UncrfmOJsZw8/NnyhtNQYDaJCDdmSy+vZmEw==",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam1S/3hvXWSEGpfZ0F5Rnn//r0tynTrEbZKImkwnriTzv"
       },
       {
         "icon": "https://static.flow.com.ar/images/884/CH_LOGO/350/500/0/0/1793376207500.png",
         "name": "HBO SIGNATURE",
-        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dq/ZE9u+yCJgsQWDKCxm+MLKOmZHDMCWxPnqiFI95z4XFSrVQlQSqsiFfxF4aX6xfaAp7t0M6KREbeLZBXgeYKL",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTCMV4/mh4A3+eU2coWgViJTk4dZYQ4EmQZNQc9BAHtIg==",
-        "drm_scheme": "clearkey"
+        "drm_scheme": "clearkey",
+        "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smk8pxHxUDzyPvYI6iijKIkZbiRFhYpSnUC0Sk5xh/4VhA==",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam3qYfeZ6zWLYvNIDnBQvd43Y8vMKxt9v39ara0UMcSMy"
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/704/CH_LOGO/350/500/0/0/931513860712.png",
+        "name": "HBO MUNDI",
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yTr6aZemleJE4HWengp0DOqo3Dgi1uCmiXyQPpLsJHw4yfI26mTFyRuxNtrXs6vGzwTN3TSOQKYxsg+YltGkmx",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UtlB1aUADh57iqXFqsmAnqTrHRNttPvbewuhMZ8R0MDZw=="
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/1441/CH_LOGO/350/500/0/0/71702634073927.png",
+        "name": "HBO POP",
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4x+e6ZWIjHRyqHv1a/7CFbNTamHjFjQ4WZvjo9LlVJpatB8EY+czXndyPdnvqv4J2M=",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UuJu8md8gCQf3WQVNfTjAX+f3zTA4Kz3fAmkn8v52do5g=="
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/705/CH_LOGO/350/500/0/0/7754024707334.png",
+        "name": "HBO XTREME",
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4ypSPv7VnSivtVIlkIXsz5Nyo/ghmhPxW96VRYoAjcdTR05D6IA7c91TKY5sDetfAe3GJTTPst+Tl5fxWHwRFN9",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5Us670M3t5VQMwvyEMHJdA2L2gREJH3vKxN3fMtPFGgrpA=="
       },
       {
         "icon": "http://static.dplay.tech/imagenes/universalcinema.png",
@@ -865,32 +865,32 @@
         "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwM8FTZdJniw+9jYPUfQGtaE"
       },
       {
-        "icon": "http://static.dplay.tech/imagenes/universalcinema.png",
-        "name": "UNIVERSAL CINEMA",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXvqCOyrhUuWEEalf/TK/Bg5D/BHlp8MyR9zpve5X3f5Q==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZmomv4ktxKY5lhbkyk2dBs"
-      },
-      {
         "icon": "http://static.dplay.tech/imagenes/uncomedy.png",
         "name": "UNIVERSAL COMEDY",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVbA57AsmprxVLRMEtr75/myEF922Qy3jG79h9rTel4sA==",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibb8LyWCazbV0q/OV3EFKfiU",
-        "drm_scheme": "clearkey"
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwN8cktx8M3UrIBqmwMaNJht"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/uncrime.png",
         "name": "UNIVERSAL CRIME",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXkcCZ/trMWk4UzJffm3zTdyAWHPg/OsDxUTQys+QyfWg==",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbi2400+uAO2Gu6aMyf8nYr",
-        "drm_scheme": "clearkey"
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwPOrHHxQUeeAw7Y+VvQI+6A"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/unpremiere.png",
         "name": "UNIVERSAL PREMIERE",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnW9z4Se5t1zlSpxDQb4JlWso4Dz+EhuRtfe/bYmzub8GQ==",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbM5I5Yfg40lWbp98j86UVtoMeFb4KJlwFdip9S/9DssQ==",
-        "drm_scheme": "clearkey"
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwPp8EMbNtyrvbdB1IIIHsA8"
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/unreality.png",
+        "name": "UNIVERSAL REALITY",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUBl0U4gOrzzH2ANRQIdc7DjoLQ2GnIQ/6eFuOftlLK+w==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwPw1JZg8LfI5n047VHwVDxY"
       }
     ]
   },
